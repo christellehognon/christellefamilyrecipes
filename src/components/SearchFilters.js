@@ -8,7 +8,7 @@ const SearchFilters = ( {filteredRecipes, setFilteredRecipes }) => {
     
 
     const filterBySearch = (event) => {
-        const query = event.target.value;
+        const query = event.target.value.toLowerCase();
         var updatedList = filteredRecipes;
         if(query !== ""){
             updatedList = updatedList.filter((item) => {return item.name.toLowerCase().startsWith(query)})

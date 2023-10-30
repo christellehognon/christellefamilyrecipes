@@ -4,7 +4,7 @@ import CustomImage from "../components/CustomImage"
 export default function Recipe(){
     const location = useLocation();
     const recipe = location.state.recipe;
-    console.log(recipe)
+    
         return (
             <div className="recipe">
                 <CustomImage imgSrc={recipe.image} pt="65%"/>
@@ -18,8 +18,9 @@ export default function Recipe(){
                         <button className="recipe-btn">{recipe.timeToCook}</button>
                         <button className="recipe-btn">{recipe.averagePrice}</button>
                     </div>
-                    <div className="recipe-ingredients">Ingrédients: <ul >{recipe.ingredients.map((ingredient) => (<li className= "recipe-ingredients-li">{ ingredient }</li>))}</ul></div>
+                    <div className="recipe-ingredients">Ingrédients: <ul >{recipe.ingredients.map((ingredient, index) => (<li key={index} className= "recipe-ingredients-li">{ ingredient }</li>))}</ul></div>
                     <p className="recipe-description">Descriptif: {recipe.description}</p>
+                
                 </div>
             </div>
         )

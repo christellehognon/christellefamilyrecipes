@@ -1,5 +1,6 @@
 import ChiefsSection from "../components/ChiefsSection";
 import RecipeCard from "../components/RecipeCard";
+
 import { recipes } from "../data";
 
 export default function Home(){
@@ -11,10 +12,10 @@ const recipesLimited  = [];
     return (
         <div>
             <div>
-                <div className="recipes-container">
-                {recipesLimited.map((recipe, index) => (
-                    <RecipeCard key={index} recipe={recipe} />
-                ))}
+                <div className="recipe-card">
+                        {recipesLimited.map((recipe) => (
+                            <RecipeCard key={recipe.slug} recipe={recipe}/>
+                        ))}
                 </div>
             </div>
             <div>

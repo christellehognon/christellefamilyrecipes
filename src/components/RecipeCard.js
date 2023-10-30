@@ -2,7 +2,6 @@ import CustomImage from "./CustomImage"
 import { Link } from "react-router-dom";
 
 export default function RecipeCard({recipe}){
-    
     return (
         <div className="recipe-card">
             <CustomImage imgSrc={recipe.image} pt="65%"/>
@@ -15,7 +14,7 @@ export default function RecipeCard({recipe}){
                         <button className="recipe-btn">{recipe.type}</button>
                         <button className="recipe-btn">{recipe.averagePrice}</button>
                     </div>
-                <Link to={recipe.slug} state={{ recipe: recipe }} className="view-btn">Voir la recette</Link>
+                <Link to={`/recipes/${recipe.slug}`} state={{ recipe: recipe }} className="view-btn">Voir la recette</Link>
             </div>
         </div>
     )

@@ -4,7 +4,7 @@ export default function Footer(){
     return (
         <div className="footer container">
             <div className="footer-section">
-                <p className="title">Christelle'sRecipes</p>
+                <p className="title">ChristelleFamillyRecipes</p>
             </div>
             <div className="footer-section">
                 <p className="title">Contactez moi</p>
