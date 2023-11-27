@@ -413,7 +413,33 @@ export const recipes = [{
     difficulty: "Facile",
     ingredients: ["2 pâtes brisées", "2 boîtes de thon de 160g", "1 petite brique de tomate frito", "1 poivron rouge", "1 poivron vert", "safran", "2 gousses d'ail", "1 jaune d'oeuf"],
     description: "Couper les poivrons en dés. Faire cuire les poivrons dans une poële avec de l'huile d'olive. Ajouter le thon émietté, la tomate frito, l'ail pressé et le safran. Laisser mijoter le tout quelques minutes à feu doux. Mettre un rouleau de pâte sur la sol du four. Répartir la préparation. Positionner le second rouleau par dessus en ayant préalablement fait une cheminée au centre et un quadrillage. Replier les bords et dorer avec le jaune d'oeuf. Mettre à four chaud à 210°C pendant environ 45 minutes. Servir avec une salade verte."
-}
+},
+{
+    image: "",
+    authorImg: "/img/top-chiefs/img_5.jpg",
+    name: "Poulet au vin jaune",
+    slug: "poulet-au-vin-jaune",
+    season: "Hiver",
+    type: "Plat",
+    timeToCook: "30 minutes + 45 minutes de cuisson",
+    averagePrice: "€€",
+    difficulty: "Facile",
+    ingredients: ["1 poulet fermier coupé en morceaux", "40g de morilles déshydratées", "100g de champignons de Paris", "50cl de crème épaisse", "20G de beurre", "10cl de Madère", "2 tablettes de bouillon de volaille", "4 échalottes", "3 branches d'estragon", "20g de farine", "1 oignon", "2 gousses d'ail"],
+    description: "Faire tremper les morilles dans l'eau chaude 30mn. Verser le madère dans une casserole. Le faire réduire. Ajouter les morilles, 0.5 tablette de bouillon de volaille. Couvrir d'eau et cuire 40 minutes. Saler le poulet côté chair. Le faire revenir côté peau. Mettre les échalottes émincées, l'oignon et l'ail et l'estragon dans un faitout avec 25cl d'eau, le vin jaune, 1.5 tablette de bouillon de volaille et les champignons coupés en lamelles. Faire chauffer à feu très vif. Puis, ajouter les morceaux de poulet et laisser cuire 15 minutes. Sortir les blancs car ils cuisent plus vite. Travailler le beurre en pommade avec la farine. Lorsque les autres morceaux de poulet sont cuits, les retirer ainsi que l'estragon. Faire réduire le jus de cuisson(presque à sec), ajouter alors le beurre manié puis la crème fraîche. Laisser cuire 5 minutes en remuant. Remettre les morceaux de poulet en les nappant avec la sauce, puis ajouter les morilles égouttées. Servir dans un plat chaud saupoudré d'estragon frais. Vous pouvez l'accompagner de riz blanc, de pâtes fraîches, de haricots verts, de pomme de terre vapeur ou mieux encore de polenta frite."
+},
+{
+    image: "",
+    authorImg: "/img/top-chiefs/img_5.jpg",
+    name: "Polenta frite",
+    slug: "polenta-frite",
+    season: "Hiver",
+    type: "Plat",
+    timeToCook: "15 minutes + 45 minutes de cuisson",
+    averagePrice: "€€",
+    difficulty: "Facile",
+    ingredients: ["200g de polenta", "60cl de bouillon de légumes", "40cl de lait", "25g de beurre", "40g de parmesan", "4 cuillères à soupe d'huile d'olive"],
+    description: "Dans une casserole, porter à ébullition le bouillon et le lait. Verser en pluie la polenta et remuer énergiquement. Ajouter le parmesan et faire cuire 5 minutes. Étaler la polenta sur une plaque beurrée. Laisser refoirdir. Détailler la polenta à l'emporte pièce. Verser l'huile d'olive dans la poêle, faire dorer environ 3 minutes de chaque côté selon la grosseur. "
+},
 //{image: "", authorImg: "/img/top-chiefs/img_1.jpg", name: "", slug: "", season: "", type: "", timeToCook: "", averagePrice: "", difficulty: "", ingredients: [], description: ""},    
 ];
 
@@ -442,5 +468,5 @@ export const chiefs = [
         name: "La Mémette",
         img: "/img/top-chiefs/img_5.jpg",
         description: "Ma maman de coeur qui m'a tout appris de la cuisine du sud-ouest!"
-    }
+    },
 ];
