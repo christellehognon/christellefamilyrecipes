@@ -507,6 +507,6 @@ export const chiefs = [
     {
         name: "La Mémette",
         img: "/img/top-chiefs/img_5.jpg",
-        description: "Ma maman de coeur qui m'a tout appris de la cuisine du sud-ouest!"
+        description: "Ma maman de coeur qui m'a tout appris de la cuisine du sud-ouest, mais pas que!"
     },
 ];
