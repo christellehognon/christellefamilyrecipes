@@ -12,10 +12,10 @@ const recipesLimited  = [];
     return (
         <div>
             <div>
-                <div className="recipe-card">
-                        {recipesLimited.map((recipe) => (
-                            <RecipeCard key={recipe.slug} recipe={recipe}/>
-                        ))}
+                <div className="recipes-container">
+                {recipesLimited.map((recipe, index) => (
+                    <RecipeCard key={index} recipe={recipe} />
+                ))}
                 </div>
             </div>
             <div>
