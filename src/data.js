@@ -412,7 +412,7 @@ export const recipes = [{
     averagePrice: "€",
     difficulty: "Facile",
     ingredients: ["2 pâtes brisées", "2 boîtes de thon de 160g", "1 petite brique de tomate frito", "1 poivron rouge", "1 poivron vert", "safran", "2 gousses d'ail", "1 jaune d'oeuf"],
-    description: "Couper les poivrons en dés. Faire cuire les poivrons dans une poële avec de l'huile d'olive. Ajouter le thon émietté, la tomate frito, l'ail pressé et le safran. Laisser mijoter le tout quelques minutes à feu doux. Mettre un rouleau de pâte sur la sol du four. Répartir la préparation. Positionner le second rouleau par dessus en ayant préalablement fait une cheminée au centre et un quadrillage. Replier les bords et dorer avec le jaune d'oeuf. Mettre à four chaud à 210°C pendant environ 45 minutes. Servir avec une salade verte."
+    description: "Couper les poivrons en dés. Faire cuire les poivrons dans une poële avec de l'huile d'olive. Ajouter le thon émietté, la tomate frito, l'ail pressé et le safran. Laisser mijoter le tout quelques minutes à feu doux. Mettre un rouleau de pâte sur la sol du four. Répartir la préparation. Positionner le second rouleau par dessus en ayant préalablement fait une cheminée au centre et un quadrillage. Replier les bords et dorer avec le jaune d'oeuf. Mettre à four chaud à 210°C pendant environ 45 minutes. Servir avec une salade verte. Merci à Sandra pour m'avoir fait découvrir cette recette!"
 },
 {
     image: "",
