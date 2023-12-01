@@ -424,8 +424,8 @@ export const recipes = [{
     timeToCook: "30 minutes + 45 minutes de cuisson",
     averagePrice: "€€",
     difficulty: "Facile",
-    ingredients: ["1 poulet fermier coupé en morceaux", "40g de morilles déshydratées", "100g de champignons de Paris", "50cl de crème épaisse", "20G de beurre", "10cl de Madère", "2 tablettes de bouillon de volaille", "4 échalottes", "3 branches d'estragon", "20g de farine", "1 oignon", "2 gousses d'ail"],
-    description: "Faire tremper les morilles dans l'eau chaude 30mn. Verser le madère dans une casserole. Le faire réduire. Ajouter les morilles, 0.5 tablette de bouillon de volaille. Couvrir d'eau et cuire 40 minutes. Saler le poulet côté chair. Le faire revenir côté peau. Mettre les échalottes émincées, l'oignon et l'ail et l'estragon dans un faitout avec 25cl d'eau, le vin jaune, 1.5 tablette de bouillon de volaille et les champignons coupés en lamelles. Faire chauffer à feu très vif. Puis, ajouter les morceaux de poulet et laisser cuire 15 minutes. Sortir les blancs car ils cuisent plus vite. Travailler le beurre en pommade avec la farine. Lorsque les autres morceaux de poulet sont cuits, les retirer ainsi que l'estragon. Faire réduire le jus de cuisson(presque à sec), ajouter alors le beurre manié puis la crème fraîche. Laisser cuire 5 minutes en remuant. Remettre les morceaux de poulet en les nappant avec la sauce, puis ajouter les morilles égouttées. Servir dans un plat chaud saupoudré d'estragon frais. Vous pouvez l'accompagner de riz blanc, de pâtes fraîches, de haricots verts, de pomme de terre vapeur ou mieux encore de polenta frite."
+    ingredients: ["1 poulet fermier coupé en morceaux", "40g de morilles déshydratées", "100g de champignons de Paris", "50cl de crème épaisse", "20g de beurre", "10cl de Madère", "2 tablettes de bouillon de volaille", "4 échalottes", "3 branches d'estragon", "20g de farine", "1 oignon", "2 gousses d'ail"],
+    description: "Faire tremper les morilles dans l'eau chaude 30 minutes. Verser le madère dans une casserole. Le faire réduire. Ajouter les morilles, 0.5 tablette de bouillon de volaille. Couvrir d'eau et cuire 40 minutes. Saler le poulet côté chair. Le faire revenir côté peau. Mettre les échalottes émincées, l'oignon et l'ail et l'estragon dans un faitout avec 25cl d'eau, le vin jaune, 1.5 tablette de bouillon de volaille et les champignons coupés en lamelles. Faire chauffer à feu très vif. Puis, ajouter les morceaux de poulet et laisser cuire 15 minutes. Sortir les blancs car ils cuisent plus vite. Travailler le beurre en pommade avec la farine. Lorsque les autres morceaux de poulet sont cuits, les retirer ainsi que l'estragon. Faire réduire le jus de cuisson(presque à sec), ajouter alors le beurre manié puis la crème fraîche. Laisser cuire 5 minutes en remuant. Remettre les morceaux de poulet en les nappant avec la sauce, puis ajouter les morilles égouttées. Servir dans un plat chaud saupoudré d'estragon frais. Vous pouvez l'accompagner de riz blanc, de pâtes fraîches, de haricots verts, de pomme de terre vapeur ou mieux encore de polenta frite."
 },
 {
     image: "",
@@ -440,6 +440,32 @@ export const recipes = [{
     ingredients: ["200g de polenta", "60cl de bouillon de légumes", "40cl de lait", "25g de beurre", "40g de parmesan", "4 cuillères à soupe d'huile d'olive"],
     description: "Dans une casserole, porter à ébullition le bouillon et le lait. Verser en pluie la polenta et remuer énergiquement. Ajouter le parmesan et faire cuire 5 minutes. Étaler la polenta sur une plaque beurrée. Laisser refoirdir. Détailler la polenta à l'emporte pièce. Verser l'huile d'olive dans la poêle, faire dorer environ 3 minutes de chaque côté selon la grosseur. "
 },
+{
+    image: "",
+    authorImg: "/img/top-chiefs/img_5.jpg",
+    name: "Cocktail de Champagne aux framboises",
+    slug: "cocktail-de-champagne-aux-framboises",
+    season: "Toutes",
+    type: "Apéritif",
+    timeToCook: "10 minutes",
+    averagePrice: "€€",
+    difficulty: "Facile",
+    ingredients: ["1 bouteille de Champagne", "Cointreau", "sirop de citron vert", "sucre de canne", "250g de framboises surgelées"],
+    description: "Choisir un joli contenant transparent avec une large ouverture. La bouteille de Champagne doit être bien fraîche. Mettre dans l'ordre une louche de cointreau, une louche de citron vert, une louche de sucre de canne. Pencher un peu le contenant et verser doucement le Champagne sur le rebord. Mélanger très légèrement en versant les framboises surgelées. Servir à la louche, de préférence dans des coupes ou des verres aux bords un peu larges"
+},
+{
+    image: "",
+    authorImg: "/img/top-chiefs/img_5.jpg",
+    name: "Tuiles aux amandes",
+    slug: "tuiles-aux-amandes",
+    season: "Toutes",
+    type: "Dessert",
+    timeToCook: "15 minutes + 5 minutes de cuisson",
+    averagePrice: "€€",
+    difficulty: "Facile",
+    ingredients: ["4 blancs d'oeufs", "2 jaunes", "125g d'amandes éffilées", "200g de sucre semoule", "2 sachets de sucre vanillé", "100g de farine", "80g de beurre fondu"],
+    description: "Préchauffer le four à 180°C. Battre les blancs avec le sucre et le sucre vanillé à la main au moins 4 minutes. Ajouter la farine, le beurre, les jaunes et les amandes. Mettre du papier sulfurisé sur une plaque de cuisson. Mettre une cuillère à soupe de pâte et l'étaler. Ajouter quelques amandes au-dessus. Cela sur toute la plaque en les espaçant pour qu'elles ne se collent pas entre elles. Enfourner 4 à 5 minutes. Bien surveiller. Les sortir du four dès qu'elles soient dorées.Les décoller rapidement et les coller sur un rouleau à pâtisserie pour qu'elles en prennent la forme. Les mettre dans un bocal hermétique dès qu'elles ont refroidi. Les tuiles peuvent se conserver plusieurs semaines."
+}
 //{image: "", authorImg: "/img/top-chiefs/img_1.jpg", name: "", slug: "", season: "", type: "", timeToCook: "", averagePrice: "", difficulty: "", ingredients: [], description: ""},    
 ];
 
