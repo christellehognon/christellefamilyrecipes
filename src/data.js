@@ -465,6 +465,34 @@ export const recipes = [{
     difficulty: "Facile",
     ingredients: ["4 blancs d'oeufs", "2 jaunes", "125g d'amandes éffilées", "200g de sucre semoule", "2 sachets de sucre vanillé", "100g de farine", "80g de beurre fondu"],
     description: "Préchauffer le four à 180°C. Battre les blancs avec le sucre et le sucre vanillé à la main au moins 4 minutes. Ajouter la farine, le beurre, les jaunes et les amandes. Mettre du papier sulfurisé sur une plaque de cuisson. Mettre une cuillère à soupe de pâte et l'étaler. Ajouter quelques amandes au-dessus. Cela sur toute la plaque en les espaçant pour qu'elles ne se collent pas entre elles. Enfourner 4 à 5 minutes. Bien surveiller. Les sortir du four dès qu'elles soient dorées.Les décoller rapidement et les coller sur un rouleau à pâtisserie pour qu'elles en prennent la forme. Les mettre dans un bocal hermétique dès qu'elles ont refroidi. Les tuiles peuvent se conserver plusieurs semaines."
+},
+{
+    image: "",
+    authorImg: "/img/top-chiefs/img_1.jpg",
+    name: "Caviar d'aubergines",
+    slug: "caviar-d-aubergines",
+    season: "Été",
+    type: "Apéritif",
+    timeToCook: "10 minutes + 40 minutes de cuisson",
+    averagePrice: "€",
+    difficulty: "Facile",
+    ingredients: ["3 grosse aubergines", "3 gousses d’ail", "6 branches de thym", "6 cuillères à soupe d’huile d’olive", "sel", "poivre"],
+    description: "Préchauffer le four à 200°C. Nettoyer les aubergines et les ouvrir en 2 dans le sens de la longueur. Les déposer sur une plaque de cuisson recouverte de papier sulfurisé. Les inciser légèrement. Saler, poivrer. Recouvrir avec les gousses d’ail dégermées pressées. Déposer le thym et arroser d’un filet d’huile d’olive. Enfourner pendant 30 à 40 minutes. Avec une cuillère retirez la chair des aubergines. Mixez la pour obtenir une purée fine. Monter à l’huile d’olive jusqu’à obtenir la consistance souhaitée. Rectifier l’assaisonnement si besoin."
+
+},
+{
+    image: "",
+    authorImg: "/img/top-chiefs/img_1.jpg",
+    name: "Caviar d'aubergines",
+    slug: "caviar-d-aubergines",
+    season: "Été",
+    type: "Apéritif",
+    timeToCook: "10 minutes + 40 minutes de cuisson",
+    averagePrice: "€",
+    difficulty: "Facile",
+    ingredients: ["3 grosse aubergines", "3 gousses d’ail", "6 branches de thym", "6 cuillères à soupe d’huile d’olive", "sel", "poivre"],
+    description: "Préchauffer le four à 200°C. Nettoyer les aubergines et les ouvrir en 2 dans le sens de la longueur. Les déposer sur une plaque de cuisson recouverte de papier sulfurisé. Les inciser légèrement. Saler, poivrer. Déposer le thym et arroser d’un filet d’huile d’olive. Enfourner pendant 30 à 40 minutes. Avec une cuillère retirez la chair des aubergines. Mixez la avec les gousses d’ail dégermées pressées pour obtenir une purée fine. Rectifier l’assaisonnement et ajouter un filet d'huile d'olives si besoin."
+
 }
 //{image: "", authorImg: "/img/top-chiefs/img_1.jpg", name: "", slug: "", season: "", type: "", timeToCook: "", averagePrice: "", difficulty: "", ingredients: [], description: ""},    
 ];
