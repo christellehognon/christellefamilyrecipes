@@ -477,20 +477,6 @@ export const recipes = [{
     averagePrice: "€",
     difficulty: "Facile",
     ingredients: ["3 grosse aubergines", "3 gousses d’ail", "6 branches de thym", "6 cuillères à soupe d’huile d’olive", "sel", "poivre"],
-    description: "Préchauffer le four à 200°C. Nettoyer les aubergines et les ouvrir en 2 dans le sens de la longueur. Les déposer sur une plaque de cuisson recouverte de papier sulfurisé. Les inciser légèrement. Saler, poivrer. Recouvrir avec les gousses d’ail dégermées pressées. Déposer le thym et arroser d’un filet d’huile d’olive. Enfourner pendant 30 à 40 minutes. Avec une cuillère retirez la chair des aubergines. Mixez la pour obtenir une purée fine. Monter à l’huile d’olive jusqu’à obtenir la consistance souhaitée. Rectifier l’assaisonnement si besoin."
-
-},
-{
-    image: "",
-    authorImg: "/img/top-chiefs/img_1.jpg",
-    name: "Caviar d'aubergines",
-    slug: "caviar-d-aubergines",
-    season: "Été",
-    type: "Apéritif",
-    timeToCook: "10 minutes + 40 minutes de cuisson",
-    averagePrice: "€",
-    difficulty: "Facile",
-    ingredients: ["3 grosse aubergines", "3 gousses d’ail", "6 branches de thym", "6 cuillères à soupe d’huile d’olive", "sel", "poivre"],
     description: "Préchauffer le four à 200°C. Nettoyer les aubergines et les ouvrir en 2 dans le sens de la longueur. Les déposer sur une plaque de cuisson recouverte de papier sulfurisé. Les inciser légèrement. Saler, poivrer. Déposer le thym et arroser d’un filet d’huile d’olive. Enfourner pendant 30 à 40 minutes. Avec une cuillère retirez la chair des aubergines. Mixez la avec les gousses d’ail dégermées pressées pour obtenir une purée fine. Rectifier l’assaisonnement et ajouter un filet d'huile d'olives si besoin."
 
 }
