@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom';
 import App from './App';
 
 import "./styles/index.scss";
+import { inject } from '@vercel/analytics';
+ 
+inject();
 
 ReactDOM.render(
   <React.StrictMode>
