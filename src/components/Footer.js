@@ -11,13 +11,13 @@ export default function Footer(){
                 <p>christellefamilyrecipes@gmail.com</p>
             </div>
             <div className="footer-section">
-                <p className="title">Socials</p>
-                <p><Link to="https://www.instagram.com/christellefamilyrecipes/#">Instagram</Link></p>
-            </div>
-            <div className="footer-section">
                 <p>
                     <Link to="/mentions-legales" className="copyright">Mentions Légales</Link>
                 </p>
+            </div>
+            <div className="footer-section">
+                <p className="title">Socials</p>
+                <p><Link to="https://www.instagram.com/christellefamilyrecipes/#">Instagram</Link></p>
             </div>
         </div>
     )
