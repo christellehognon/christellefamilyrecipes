@@ -12,8 +12,6 @@ export default function Footer(){
             </div>
             <div className="footer-section">
                 <p className="title">Socials</p>
-                <p>Facebook</p>
-                <p>Twitter</p>
                 <p><Link to="https://www.instagram.com/christellefamilyrecipes/#">Instagram</Link></p>
             </div>
             <div className="footer-section">
