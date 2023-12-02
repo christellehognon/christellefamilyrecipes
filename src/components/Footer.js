@@ -14,7 +14,7 @@ export default function Footer(){
                 <p className="title">Socials</p>
                 <p>Facebook</p>
                 <p>Twitter</p>
-                <p>Instagram</p>
+                <p><Link to="https://www.instagram.com/christellefamilyrecipes/#">Instagram</Link></p>
             </div>
             <div className="footer-section">
                 <p>
