@@ -7,7 +7,7 @@ export default function Recipe(){
     
         return (
             <div className="recipe">
-                <CustomImage imgSrc={recipe.image} pt="65%"/>
+                <CustomImage imgSrc={recipe.image} pt="65%" alt={recipe.name}/>
                 <div className="recipe-info">
                     <img className="author-img" src={recipe.authorImg} alt=""/>
                     <p className="recipe-title">{recipe.name}</p>

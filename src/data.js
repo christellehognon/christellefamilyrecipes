@@ -481,7 +481,7 @@ export const recipes = [{
 
 },
 {
-    image: "/img/gallery/img_16.jpg",
+    image: "/img/gallery/img_28.jpg",
     authorImg: "/img/top-chiefs/img_1.jpg",
     name: "Tarte saumon et poireaux",
     slug: "tarte-saumon-poireaux",
