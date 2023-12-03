@@ -479,6 +479,19 @@ export const recipes = [{
     ingredients: ["3 grosse aubergines", "3 gousses d’ail", "6 branches de thym", "6 cuillères à soupe d’huile d’olive", "sel", "poivre"],
     description: "Préchauffer le four à 200°C. Nettoyer les aubergines et les ouvrir en 2 dans le sens de la longueur. Les déposer sur une plaque de cuisson recouverte de papier sulfurisé. Les inciser légèrement. Saler, poivrer. Déposer le thym et arroser d’un filet d’huile d’olive. Enfourner pendant 30 à 40 minutes. Avec une cuillère retirez la chair des aubergines. Mixez la avec les gousses d’ail dégermées pressées pour obtenir une purée fine. Rectifier l’assaisonnement et ajouter un filet d'huile d'olives si besoin."
 
+},
+{
+    image: "/img/gallery/img_16.jpg",
+    authorImg: "/img/top-chiefs/img_1.jpg",
+    name: "Tarte saumon et poireaux",
+    slug: "tarte-saumon-poireaux",
+    season: "Toutes",
+    type: "Plat",
+    timeToCook: "10 minutes + 45 minutes de cuisson",
+    averagePrice: "€",
+    difficulty: "Facile",
+    ingredients: ["1 pâte brisée", "250g de saumonn", "6 oeufs", "20cl de crème fraîche", "3 chèvre poireaux", "sel", "poivre", "huile d'olive"],
+    description: "Nettoyer les poireaux et les couper en rondelles. Les mettre à cuire avec un filet d'huile d'olive. Dans un saladier, battre les oeufs, ajouter la crème, saler et poivrer. Ajouter les poireaux. Détailler le saumon en morceaux. Mettre la pâte dans un moule à tarte. Répartir les morceaux de saumon. Verser la préparation. Mettre à four chaud à 210°C pendant environ 45 minutes. Servir avec une salade verte."
 }
 //{image: "", authorImg: "/img/top-chiefs/img_1.jpg", name: "", slug: "", season: "", type: "", timeToCook: "", averagePrice: "", difficulty: "", ingredients: [], description: ""},    
 ];

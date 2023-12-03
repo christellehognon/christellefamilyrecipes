@@ -5,11 +5,11 @@ export default function Footer(){
         <div className="footer container">
             <div className="footer-section">
                 <p className="title">ChristelleFamillyRecipes</p>
-            </div>
-            <div className="footer-section">
+                <div className="footer-section">
                 <p>
                     <Link to="/mentions-legales" className="copyright">Mentions Légales</Link>
                 </p>
+            </div>
             </div>
             <div className="footer-section">
                 <p className="title">Socials</p>
