@@ -190,7 +190,7 @@ export const recipes = [{
     timeToCook: "10 minutes + 20 minutes de cuisson",
     averagePrice: "€",
     difficulty: "Facile",
-    ingredients: ["200g de beurre", "4 oeufs", "200g de sucre", "200g de chocolat", "80g de farine", "250g de beurre"],
+    ingredients: ["200g de beurre", "4 oeufs", "200g de sucre", "200g de chocolat", "80g de farine"],
     description: "Faire fondre au bain-marie le chocolat et le beurre. Hors du feu, ajouter le sucre. Puis la farine. Ajouter les oeufs un par un en mélangeant bien afin d'obtenir une pâte  bien lisse. Enfourner à four chaud(220°C) pendant 5 minutes. Puis, baisser le four à 200°C pendant environ 15 minutes."
 },
 {
