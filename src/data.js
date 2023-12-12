@@ -542,9 +542,9 @@ export const recipes = [{
     timeToCook: "15 minutes",
     averagePrice: "€",
     difficulty: "Facile",
-    ingredients: ["200g de chocolat blanc", "1cl de rhum", "Menthe fraîche", "2 citrons verts", "10cl de crème liquide entière"],
-    description: "Laver et zester les citrons verts. Laver et effeuiller la menthe. Faire fondre le chocolat blanc au bain-marie. Dans une casserole, disposer la crème avec les feuilles de menthe et les zestes de citron, puis porter à ébullition. Verser ensuite le tout dans un blender et mixer, puis verser en 3 fois sur le chocolat fondu. Ajouter le rhum. Laisser prendre au réfrigérateur."
-},
+    ingredients: ["3 feuilles de gélatine de 2g", "40cl de crème liquide entière", "1 gousse de vanille", "100g de sucre enn poudre", "10cl d'eau", "20g de sucre en poudre", "125g de framboises fraîches"],
+                description: "Mettre la gélatine à ramollir dans un bol d'eau froide. Faire bouillir 10 cl de crème liquide avec 100 g de sucre et la gousse de vanille fendue en 2. Ajouter ensuite la gélatine égouttée ainsi que le reste de crème. Verser la préparation dans des verrines individuelles et réserver au frais. Pour le coulis, laver les framboises, puis les mixer au blender avec 20g de sucre. Ajouter de l'eau si nécessaire. Réserver au frais."
+    },
 //{image: "", authorImg: "/img/top-chiefs/img_1.jpg", name: "", slug: "", season: "", type: "", timeToCook: "", averagePrice: "", difficulty: "", ingredients: [], description: ""},    
 ];
 
