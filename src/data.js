@@ -533,7 +533,7 @@ export const recipes = [{
     description: "Mettre le sucre dans une poêle, laisser colorer jusqu'à obtention d'un caramel, puis ajouter les framboises surgelées et la fève de tonka râpée. Laisser évaporer l'eau jusqu'à obtenir une marmelade. Puis porter à ébullition 1 minute avec l'agar-agar. Laisser prendre au réfrigérateur."
 },
 {
-    image: "/img/gallery/img_29.jpg",
+    image: "/img/gallery/img_30.jpg",
     authorImg: "/img/top-chiefs/img_1.jpg",
     name: "Ganache mojito",
     slug: "ganache-mojito",
