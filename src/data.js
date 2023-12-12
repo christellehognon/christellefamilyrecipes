@@ -535,8 +535,8 @@ export const recipes = [{
 {
     image: "/img/gallery/img_30.jpg",
     authorImg: "/img/top-chiefs/img_1.jpg",
-    name: "Ganache mojito",
-    slug: "ganache-mojito",
+    name: "Panacotta coulis de framboises",
+    slug: "panacotta-coulis de framboises",
     season: "Toutes",
     type: "Dessert",
     timeToCook: "15 minutes",
