@@ -515,7 +515,7 @@ export const recipes = [{
     type: "Dessert",
     timeToCook: "15 minutes",
     averagePrice: "€",
-    difficulty: "Technique",
+    difficulty: "Facile",
     ingredients: ["200g de chocolat blanc", "20g de gingembre", "10cl de crème liquide entière"],
     description: "Faire fondre le chocolat blanc au bain-marie. Peler le gingembre et le râper. Dans une casserole, disposer la crème avec le gingembre, puis porter à ébullition. Verser en 3 fois sur le chocolat fondu. Laisser prendre au réfrigérateur."
 },
@@ -528,7 +528,7 @@ export const recipes = [{
     type: "Dessert",
     timeToCook: "15 minutes",
     averagePrice: "€",
-    difficulty: "Technique",
+    difficulty: "Facile",
     ingredients: ["200g de framboise surgelées", "120g de sucre", "1g d'Agar Agar, 1/2 fève de Tonka"],
     description: "Mettre le sucre dans une poêle, laisser colorer jusqu'à obtention d'un caramel, puis ajouter les framboises surgelées et la fève de tonka râpée. Laisser évaporer l'eau jusqu'à obtenir une marmelade. Puis porter à ébullition 1 minute avec l'agar-agar. Laisser prendre au réfrigérateur."
 },
@@ -541,7 +541,7 @@ export const recipes = [{
     type: "Dessert",
     timeToCook: "15 minutes",
     averagePrice: "€",
-    difficulty: "Technique",
+    difficulty: "Facile",
     ingredients: ["200g de chocolat blanc", "1cl de rhum", "Menthe fraîche", "2 citrons verts", "10cl de crème liquide entière"],
     description: "Laver et zester les citrons verts. Laver et effeuiller la menthe. Faire fondre le chocolat blanc au bain-marie. Dans une casserole, disposer la crème avec les feuilles de menthe et les zestes de citron, puis porter à ébullition. Verser ensuite le tout dans un blender et mixer, puis verser en 3 fois sur le chocolat fondu. Ajouter le rhum. Laisser prendre au réfrigérateur."
 },
