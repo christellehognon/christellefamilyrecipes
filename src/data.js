@@ -490,9 +490,61 @@ export const recipes = [{
     timeToCook: "10 minutes + 45 minutes de cuisson",
     averagePrice: "€",
     difficulty: "Facile",
-    ingredients: ["1 pâte brisée", "250g de saumonn", "6 oeufs", "20cl de crème fraîche", "3 chèvre poireaux", "sel", "poivre", "huile d'olive"],
+    ingredients: ["1 pâte brisée", "250g de saumon", "6 oeufs", "20cl de crème fraîche", "3 chèvre poireaux", "sel", "poivre", "huile d'olive"],
     description: "Nettoyer les poireaux et les couper en rondelles. Les mettre à cuire avec un filet d'huile d'olive. Dans un saladier, battre les oeufs, ajouter la crème, saler et poivrer. Ajouter les poireaux. Détailler le saumon en morceaux. Mettre la pâte dans un moule à tarte. Répartir les morceaux de saumon. Verser la préparation. Mettre à four chaud à 210°C pendant environ 45 minutes. Servir avec une salade verte."
-}
+},
+{
+    image: "/img/gallery/img_29.jpg",
+    authorImg: "/img/top-chiefs/img_1.jpg",
+    name: "Macarons",
+    slug: "macarons",
+    season: "Toutes",
+    type: "Dessert",
+    timeToCook: "1 heure + 10 minutes de cuisson par plaque",
+    averagePrice: "€",
+    difficulty: "Technique",
+    ingredients: ["200g de poudre d'amandes", "200g de sucre glace", "150g de blancs d'oeuf", "200g de sucre en poudre", "5cl d'eau", "1g de colorant alimentaire en poudre"],
+    description: "Préchauffer le four à 140°C. Pour colorer les coques avec du cacao, diminuer la quantité de poudre d'amandes: pour 30g de cacao il ne faut que 170g de poudre d'amandes. Verser la poudre d'amande et le sucre glace ,et le cacao le cas échéant, dans un mixeur. Faire tourner pendant 30 secondes pour affiner le mélange (tant pour tant), puis tamiser. Dans une casserole, mélanger l'eau et le sucre semoule avec une spatule et cuire à 118-119 °C. Avant d'atteindre cette température, mettre 75g de blancs dans la cuve d'un batteur et les monter. Lorsque le sucre a atteint la bonne température, le verser sur les blancs montés en laissant couler un filet du sirop le long de la paroi du bol. Ajouter le colorant en poudre si nécessaire. Continuer à fouetter ensuite jusqu'à refroidissement de la meringue. Verser le reste de blancs d’œufs sur le tant pour tant. Incorporer une petite partie de la meringue froide à ce mélange, puis ajouter le reste petit à petit en macaronant la pâte. Remplir une poche à douille avec cette préparation et dresser les macarons sur du papier sulfurisé. Lâcher la plaque de 50cm de hauteur afin de chasser les bulles d'air. Laisser crôuter 15 minutes. Enfourner pendant 10 minutes en tournant la plaque à mi-cuisson. Laisser ensuite les coques refroidir avant de les décoller du papier cuisson. Remplir une poche à douille avec la préparation choisie. Coller les coques deux par deux"
+},
+{
+    image: "/img/gallery/img_29.jpg",
+    authorImg: "/img/top-chiefs/img_1.jpg",
+    name: "Ganache chocolat blanc gingembre",
+    slug: "ganache-chocolat-blanc-gingembre",
+    season: "Toutes",
+    type: "Dessert",
+    timeToCook: "15 minutes",
+    averagePrice: "€",
+    difficulty: "Technique",
+    ingredients: ["200g de chocolat blanc", "20g de gingembre", "10cl de crème liquide entière"],
+    description: "Faire fondre le chocolat blanc au bain-marie. Peler le gingembre et le râper. Dans une casserole, disposer la crème avec le gingembre, puis porter à ébullition. Verser en 3 fois sur le chocolat fondu. Laisser prendre au réfrigérateur."
+},
+{
+    image: "/img/gallery/img_29.jpg",
+    authorImg: "/img/top-chiefs/img_1.jpg",
+    name: "Gelée de framboises et fève de Tonka",
+    slug: "gelee-de-framboises-et-feve-de-tonka",
+    season: "Toutes",
+    type: "Dessert",
+    timeToCook: "15 minutes",
+    averagePrice: "€",
+    difficulty: "Technique",
+    ingredients: ["200g de framboise surgelées", "120g de sucre", "1g d'Agar Agar, 1/2 fève de Tonka"],
+    description: "Mettre le sucre dans une poêle, laisser colorer jusqu'à obtention d'un caramel, puis ajouter les framboises surgelées et la fève de tonka râpée. Laisser évaporer l'eau jusqu'à obtenir une marmelade. Puis porter à ébullition 1 minute avec l'agar-agar. Laisser prendre au réfrigérateur."
+},
+{
+    image: "/img/gallery/img_29.jpg",
+    authorImg: "/img/top-chiefs/img_1.jpg",
+    name: "Ganache mojito",
+    slug: "ganache-mojito",
+    season: "Toutes",
+    type: "Dessert",
+    timeToCook: "15 minutes",
+    averagePrice: "€",
+    difficulty: "Technique",
+    ingredients: ["200g de chocolat blanc", "1cl de rhum", "Menthe fraîche", "2 citrons verts", "10cl de crème liquide entière"],
+    description: "Laver et zester les citrons verts. Laver et effeuiller la menthe. Faire fondre le chocolat blanc au bain-marie. Dans une casserole, disposer la crème avec les feuilles de menthe et les zestes de citron, puis porter à ébullition. Verser ensuite le tout dans un blender et mixer, puis verser en 3 fois sur le chocolat fondu. Ajouter le rhum. Laisser prendre au réfrigérateur."
+},
 //{image: "", authorImg: "/img/top-chiefs/img_1.jpg", name: "", slug: "", season: "", type: "", timeToCook: "", averagePrice: "", difficulty: "", ingredients: [], description: ""},    
 ];
 
