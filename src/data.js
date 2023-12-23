@@ -424,7 +424,7 @@ export const recipes = [{
     timeToCook: "30 minutes + 45 minutes de cuisson",
     averagePrice: "€€",
     difficulty: "Facile",
-    ingredients: ["1 poulet fermier coupé en morceaux", "40g de morilles déshydratées", "100g de champignons de Paris", "50cl de crème épaisse", "20g de beurre", "10cl de Madère", "2 tablettes de bouillon de volaille", "4 échalottes", "3 branches d'estragon", "20g de farine", "1 oignon", "2 gousses d'ail"],
+    ingredients: ["1 poulet fermier coupé en morceaux", "50cl de vin Jaune", "40g de morilles déshydratées", "100g de champignons de Paris", "50cl de crème épaisse", "20g de beurre", "10cl de Madère", "2 tablettes de bouillon de volaille", "4 échalottes", "3 branches d'estragon", "20g de farine", "1 oignon", "2 gousses d'ail"],
     description: "Faire tremper les morilles dans l'eau chaude 30 minutes. Verser le madère dans une casserole. Le faire réduire. Ajouter les morilles, 0.5 tablette de bouillon de volaille. Couvrir d'eau et cuire 40 minutes. Saler le poulet côté chair. Le faire revenir côté peau. Mettre les échalottes émincées, l'oignon et l'ail et l'estragon dans un faitout avec 25cl d'eau, le vin jaune, 1.5 tablette de bouillon de volaille et les champignons coupés en lamelles. Faire chauffer à feu très vif. Puis, ajouter les morceaux de poulet et laisser cuire 15 minutes. Sortir les blancs car ils cuisent plus vite. Travailler le beurre en pommade avec la farine. Lorsque les autres morceaux de poulet sont cuits, les retirer ainsi que l'estragon. Faire réduire le jus de cuisson(presque à sec), ajouter alors le beurre manié puis la crème fraîche. Laisser cuire 5 minutes en remuant. Remettre les morceaux de poulet en les nappant avec la sauce, puis ajouter les morilles égouttées. Servir dans un plat chaud saupoudré d'estragon frais. Vous pouvez l'accompagner de riz blanc, de pâtes fraîches, de haricots verts, de pomme de terre vapeur ou mieux encore de polenta frite."
 },
 {
@@ -543,7 +543,7 @@ export const recipes = [{
     averagePrice: "€",
     difficulty: "Facile",
     ingredients: ["3 feuilles de gélatine de 2g", "40cl de crème liquide entière", "1 gousse de vanille", "100g de sucre enn poudre", "10cl d'eau", "20g de sucre en poudre", "125g de framboises fraîches"],
-                description: "Mettre la gélatine à ramollir dans un bol d'eau froide. Faire bouillir 10 cl de crème liquide avec 100 g de sucre et la gousse de vanille fendue en 2. Ajouter ensuite la gélatine égouttée ainsi que le reste de crème. Verser la préparation dans des verrines individuelles et réserver au frais. Pour le coulis, laver les framboises, puis les mixer au blender avec 20g de sucre. Ajouter de l'eau si nécessaire. Réserver au frais."
+    description: "Mettre la gélatine à ramollir dans un bol d'eau froide. Faire bouillir 10 cl de crème liquide avec 100 g de sucre et la gousse de vanille fendue en 2. Ajouter ensuite la gélatine égouttée ainsi que le reste de crème. Verser la préparation dans des verrines individuelles et réserver au frais. Pour le coulis, laver les framboises, puis les mixer au blender avec 20g de sucre. Ajouter de l'eau si nécessaire. Réserver au frais."
     },
 //{image: "", authorImg: "/img/top-chiefs/img_1.jpg", name: "", slug: "", season: "", type: "", timeToCook: "", averagePrice: "", difficulty: "", ingredients: [], description: ""},    
 ];
