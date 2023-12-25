@@ -415,7 +415,7 @@ export const recipes = [{
     description: "Couper les poivrons en dés. Faire cuire les poivrons dans une poële avec de l'huile d'olive. Ajouter le thon émietté, la tomate frito, l'ail pressé et le safran. Laisser mijoter le tout quelques minutes à feu doux. Mettre un rouleau de pâte sur la sol du four. Répartir la préparation. Positionner le second rouleau par dessus en ayant préalablement fait une cheminée au centre et un quadrillage. Replier les bords et dorer avec le jaune d'oeuf. Mettre à four chaud à 210°C pendant environ 45 minutes. Servir avec une salade verte. Merci à Sandra pour m'avoir fait découvrir cette recette!"
 },
 {
-    image: "",
+    image: "img_32.jpg",
     authorImg: "/img/top-chiefs/img_5.jpg",
     name: "Poulet au vin jaune",
     slug: "poulet-au-vin-jaune",
@@ -428,7 +428,7 @@ export const recipes = [{
     description: "Faire tremper les morilles dans l'eau chaude 30 minutes. Verser le madère dans une casserole. Le faire réduire. Ajouter les morilles, 0.5 tablette de bouillon de volaille. Couvrir d'eau et cuire 40 minutes. Saler le poulet côté chair. Le faire revenir côté peau. Mettre les échalottes émincées, l'oignon et l'ail et l'estragon dans un faitout avec 25cl d'eau, le vin jaune, 1.5 tablette de bouillon de volaille et les champignons coupés en lamelles. Faire chauffer à feu très vif. Puis, ajouter les morceaux de poulet et laisser cuire 15 minutes. Sortir les blancs car ils cuisent plus vite. Travailler le beurre en pommade avec la farine. Lorsque les autres morceaux de poulet sont cuits, les retirer ainsi que l'estragon. Faire réduire le jus de cuisson(presque à sec), ajouter alors le beurre manié puis la crème fraîche. Laisser cuire 5 minutes en remuant. Remettre les morceaux de poulet en les nappant avec la sauce, puis ajouter les morilles égouttées. Servir dans un plat chaud saupoudré d'estragon frais. Vous pouvez l'accompagner de riz blanc, de pâtes fraîches, de haricots verts, de pomme de terre vapeur ou mieux encore de polenta frite."
 },
 {
-    image: "",
+    image: "img_31.jpg",
     authorImg: "/img/top-chiefs/img_5.jpg",
     name: "Polenta frite",
     slug: "polenta-frite",
