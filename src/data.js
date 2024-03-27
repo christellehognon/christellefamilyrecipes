@@ -542,9 +542,37 @@ export const recipes = [{
     timeToCook: "15 minutes",
     averagePrice: "€",
     difficulty: "Facile",
-    ingredients: ["3 feuilles de gélatine de 2g", "40cl de crème liquide entière", "1 gousse de vanille", "100g de sucre enn poudre", "10cl d'eau", "20g de sucre en poudre", "125g de framboises fraîches"],
+    ingredients: ["3 feuilles de gélatine de 2g", "40cl de crème liquide entière", "1 gousse de vanille", "100g de sucre en poudre", "10cl d'eau", "20g de sucre en poudre", "125g de framboises fraîches"],
     description: "Mettre la gélatine à ramollir dans un bol d'eau froide. Faire bouillir 10 cl de crème liquide avec 100 g de sucre et la gousse de vanille fendue en 2. Ajouter ensuite la gélatine égouttée ainsi que le reste de crème. Verser la préparation dans des verrines individuelles et réserver au frais. Pour le coulis, laver les framboises, puis les mixer au blender avec 20g de sucre. Ajouter de l'eau si nécessaire. Réserver au frais."
     },
+    {
+        image: "/img/gallery/img_33.jpg", 
+        authorImg: "/img/top-chiefs/img_2.jpg", 
+        name: "Tarte aux pommes", 
+        slug: "tarte-aux-pommes", 
+        season: "Toutes", 
+        type: "Dessert", 
+        timeToCook: "15 minutes + 35 minutes de cuisson", 
+        averagePrice: "€", 
+        difficulty: "Facile", 
+        ingredients: ["4 pommes granny smith", "4 oeufs", "100g de sucre", "25cl de crème épaisse", "1 pâte feuilletée", "1 sachet de sucre vanillé"], 
+        description: "Préchauffer le four à 200 degrés. Peler les pommes. Mettre la pâte feuilletée dans un moule à tarte. Disposer les trannches de pommes. Dans un récipient, battre les oeufs, la crème et le sucre. Mettre à four chaud. À la sortie du four, parsemer de sucre vanillé."
+    }/*,
+    {
+        image: "", 
+        authorImg: "/img/top-chiefs/img_1.jpg", 
+        name: "", 
+        slug: "", 
+        season: "", 
+        type: "", 
+        timeToCook: "", 
+        averagePrice: "", 
+        difficulty: "", 
+        ingredients: [], 
+        description: ""
+    }, */   
+    
+
 //{image: "", authorImg: "/img/top-chiefs/img_1.jpg", name: "", slug: "", season: "", type: "", timeToCook: "", averagePrice: "", difficulty: "", ingredients: [], description: ""},    
 ];
 
