@@ -568,7 +568,7 @@ export const recipes = [{
         timeToCook: "20 minutes", 
         averagePrice: "€", 
         difficulty: "Facile", 
-        ingredients: ["1 magret de canard du sud-ouest", "poivre vert", "20cl de crème épaisse", "20cl de cognac", "60cl d'eau chaude", "4 cuillères à soupe de fond de veau", ""], 
+        ingredients: ["1 magret de canard du sud-ouest", "poivre vert en saumure", "20cl de crème épaisse", "20cl de cognac", "60cl d'eau chaude", "4 cuillères à soupe de fond de veau", ""], 
         description: "Bouillir pendant 3 minutes le cognac avec du poivre vert en grains et une autre partie écrasée au mortier. Mélanger à part l'eau chaude avec le fond de veau pour le dissoudre. Incorporer au cognac puis mettre de nouveau à bouillir pour que la sauce s'évapore d'1/4. Mettre la crème épaisse et laisser à nouveau réduire à feu doux jusqu'à ce que le mélange nappe une cuillère en bois (lorsqu'on passe son doigt la trace ne s’efface pas). Saler et poivrer et servir avec le magret."
     },    
     {
@@ -581,7 +581,7 @@ export const recipes = [{
         timeToCook: "30 minutes + 45 minutes de cuisson", 
         averagePrice: "€", 
         difficulty: "Facile", 
-        ingredients: ["1kg de poivrons rouges bio", "sucre", "safran"], 
+        ingredients: ["1kg de poivrons rouges bio", "sucre à confiture", "safran"], 
         description: "Éplucher les poivrons à l'aide d'un économe prévu à cet effet. Les mixer. Les peser puis ajouter la moitié du poids des poivrons en sucre et le safran. Faire cuire la confiture à gros bouillon jusqu'à ébullition sans cesser de remuer. Enlever l'écume si besoin. Continuer la cuisson à feu doux jusqu'à ce qu' elle fige au contact d'une assiette froide. Servir en toast avec du fromage."
     },    
 
