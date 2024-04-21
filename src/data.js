@@ -557,20 +557,48 @@ export const recipes = [{
         difficulty: "Facile", 
         ingredients: ["4 pommes granny smith", "4 oeufs", "100g de sucre", "25cl de crème épaisse", "1 pâte feuilletée", "1 sachet de sucre vanillé"], 
         description: "Préchauffer le four à 200 degrés. Peler les pommes. Mettre la pâte feuilletée dans un moule à tarte. Disposer les trannches de pommes. Dans un récipient, battre les oeufs, la crème et le sucre. Mettre à four chaud. À la sortie du four, parsemer de sucre vanillé."
-    }/*,
+    },
     {
+        image: "/img/gallery/img_34.jpg", 
+        authorImg: "/img/top-chiefs/img_1.jpg", 
+        name: "Magret de canard sauce au poivre vert", 
+        slug: "magret-de-canard-sauce-au-poivre-vert", 
+        season: "Toutes", 
+        type: "Plat", 
+        timeToCook: "20 minutes", 
+        averagePrice: "€", 
+        difficulty: "Facile", 
+        ingredients: ["1 magret de canard du sud-ouest", "poivre vert", "20cl de crème épaisse", "20cl de cognac", "60cl d'eau chaude", "4 cuillères à soupe de fond de veau", ""], 
+        description: "Bouillir pendant 3 minutes le cognac avec du poivre vert en grains et une autre partie écrasée au mortier. Mélanger à part l'eau chaude avec le fond de veau pour le dissoudre. Incorporer au cognac puis mettre de nouveau à bouillir pour que la sauce s'évapore d'1/4. Mettre la crème épaisse et laisser à nouveau réduire à feu doux jusqu'à ce que le mélange nappe une cuillère en bois (lorsqu'on passe son doigt la trace ne s’efface pas). Saler et poivrer et servir avec le magret."
+    },    
+    {
+        image: "/img/gallery/img_35.jpg", 
+        authorImg: "/img/top-chiefs/img_1.jpg", 
+        name: "Confiture de poivrons rouges", 
+        slug: "confiture-de-poivrons-rouges", 
+        season: "Été", 
+        type: "Apéritif", 
+        timeToCook: "30 minutes + 45 minutes de cuisson", 
+        averagePrice: "€", 
+        difficulty: "Facile", 
+        ingredients: ["1kg de poivrons rouges bio", "sucre", "safran"], 
+        description: "Éplucher les poivrons à l'aide d'un économe prévu à cet effet. Les mixer. Les peser puis ajouter la moitié du poids des poivrons en sucre et le safran. Faire cuire la confiture à gros bouillon jusqu'à ébullition sans cesser de remuer. Enlever l'écume si besoin. Continuer la cuisson à feu doux jusqu'à ce qu' elle fige au contact d'une assiette froide. Servir en toast avec du fromage."
+    },    
+
+
+    /*{
         image: "", 
         authorImg: "/img/top-chiefs/img_1.jpg", 
-        name: "", 
-        slug: "", 
-        season: "", 
-        type: "", 
+        name: "Lasagnes de Saint Jacques, fondue de poireaux, sauce au beurre blanc", 
+        slug: "lasagnes-de-saint-jacques-fondue de poireux-sauce-au-beurre-blanc", 
+        season: "Hiver", 
+        type: "Plat", 
         timeToCook: "", 
         averagePrice: "", 
         difficulty: "", 
         ingredients: [], 
         description: ""
-    }, */   
+    },*/   
     
 
 //{image: "", authorImg: "/img/top-chiefs/img_1.jpg", name: "", slug: "", season: "", type: "", timeToCook: "", averagePrice: "", difficulty: "", ingredients: [], description: ""},    
