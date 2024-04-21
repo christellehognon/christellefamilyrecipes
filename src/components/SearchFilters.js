@@ -9,7 +9,7 @@ const SearchFilters = ( {filteredRecipes, setFilteredRecipes }) => {
 
     const filterBySearch = (event) => {
         const query = event.target.value.toLowerCase();
-        console.log(query);
+
         var updatedList = filteredRecipes;
         if(query !== ""){
             updatedList = updatedList.filter((item) => {return item.slug.startsWith(query)})
