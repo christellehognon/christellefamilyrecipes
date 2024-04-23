@@ -583,7 +583,20 @@ export const recipes = [{
         difficulty: "Facile", 
         ingredients: ["1kg de poivrons rouges bio", "sucre à confiture", "safran"], 
         description: "Éplucher les poivrons à l'aide d'un économe prévu à cet effet. Les mixer. Les peser puis ajouter la moitié du poids des poivrons en sucre et le safran. Faire cuire la confiture à gros bouillon jusqu'à ébullition sans cesser de remuer. Enlever l'écume si besoin. Continuer la cuisson à feu doux jusqu'à ce qu' elle fige au contact d'une assiette froide. Servir en toast avec du fromage."
-    },    
+    }, 
+    {
+        image: "/img/gallery/img_36.jpg", 
+        authorImg: "/img/top-chiefs/img_1.jpg", 
+        name: "Salade de pâtes au melon et au magret fumé", 
+        slug: "salade-de-pates-au-melon-et-au-magret-fume", 
+        season: "Été", 
+        type: "Plat", 
+        timeToCook: "20 minutes", 
+        averagePrice: "€", 
+        difficulty: "Facile", 
+        ingredients: ["400g d'orecchiette", "magret fumé en tranches", "1 melon", "basilic", "huile d'olive infusée à l'ail", "parmesan"], 
+        description: "Faire cuire les pâtes. Pendant ce temps, faire des billes de melon. Enlever le gras du magret. Quand les pâtes sont cuites, les égoutter et les rafraîchir à l'eau froide. Égoutter à nouveau. Verser les pâtes dans un saladier. Les assaisonner avec l'huile d'olive à l'ail. Bien mélanger. Ajouter le melon, les tranches de magret et des copeaux de parmesan. Ciseler du basilic frais."
+    },   
 
 
     /*{
@@ -599,10 +612,7 @@ export const recipes = [{
         ingredients: [], 
         description: ""
     },*/   
-    
-
-//{image: "", authorImg: "/img/top-chiefs/img_1.jpg", name: "", slug: "", season: "", type: "", timeToCook: "", averagePrice: "", difficulty: "", ingredients: [], description: ""},    
-];
+    ];
 
 export const chiefs = [
     {
