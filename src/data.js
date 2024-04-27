@@ -86,7 +86,7 @@ export const recipes = [{
     timeToCook: "30 minutes + 25 minutes de cuisson",
     averagePrice: "€",
     difficulty: "Facile",
-    ingredients: ["75g de farine", "1 cuillère à café rase de canelle", "1 pincée de sel", "25g de sucre en poudre", "50g de beurre", "4 grosses pommes", "100g de sucre", "eau"],
+    ingredients: ["75g de farine", "1 cuillère à café rase de canelle", "1 pincée de sel", "25g de sucre en poudre", "50g de beurre ramolli", "4 grosses pommes", "100g de sucre", "eau"],
     description: "Pour le granité, mélanger à la fourchette pour être bien fluide (pas de grumeaux).La farine, le sucre puis le beurre et le sucre vanillé. Faire un sable. Couper les pommes en tranches fines. Les faire sauter dans une poêle dans un sirop de sucre (eau et 100g de sucre). Les faire revenir rapidement. Laisser refroidir. Mettre les pommes dans le moule et répendre le sable. Mettre au four thermostat 7 environ 25’. Servir tiède avec une crème pâtissière très froide."
 },
 {
