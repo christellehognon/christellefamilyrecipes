@@ -90,7 +90,7 @@ export const recipes = [{
     description: "Pour le granité, mélanger à la fourchette pour être bien fluide (pas de grumeaux) la farine, le sucre puis le beurre la canelle et le sucre vanillé. Faire un sable. Couper les pommes en tranches fines. Les faire sauter dans une poêle dans un sirop de sucre (eau et 100g de sucre). Les faire revenir rapidement. Laisser refroidir. Mettre les pommes dans un moule de 26 cm environ et répendre le sable. Mettre au four à 210°C environ 25’. Servir tiède avec une crème pâtissière très froide."
 },
 {
-    image: "/img/top-chiefs/img_37.jpg",
+    image: "/img/gallery/img_37.jpg",
     authorImg: "/img/top-chiefs/img_1.jpg",
     name: "Crème pâtissière",
     slug: "creme-patissiere",
