@@ -2,9 +2,10 @@ import CustomImage from "./CustomImage"
 import { Link } from "react-router-dom";
 
 export default function RecipeCard({recipe}){
+    console.log('RECIPE', recipe)
     return (
         <div className="recipe-card">
-                <CustomImage imgSrc={recipe.image} pt="65%" alt={recipe.name}/>
+                    <CustomImage imgSrc={recipe.image} pt="65%" alt={recipe.name} slug={recipe.slug} recipe={recipe}/>
             <div className="recipe-card-info">
                 <img className="author-img" src={recipe.authorImg} />
                 <p className="recipe-title">{recipe.name}</p>
