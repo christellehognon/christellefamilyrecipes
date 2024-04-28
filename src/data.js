@@ -77,7 +77,7 @@ export const recipes = [{
     description: "Séparer les blancs et les jaunes des oeufs. Fouetter les jaunes et le sucre jusque’à ce qu’ils blanchissent. Mettre les 250g de chocolat brisés dans une casserole. Faire fondre au bain-marie. Ajouter aux jaunes, mélanger. Ajouter la poudre d'amandes avec la levure, la maïzena et le beurre ramolli. Puis 3 blancs d'oeufs battus en neige avec la pincée de sel. Mélanger délicatement. Verser dans le moule beurré et saupoudrer de sucre semoule. Ne remplir qu'aux 3/4, et mettre à four chaud 210°C (th. 6-7). Cuire rapidement pour conserver le milieu de la pâte crémeuse (25 min). Laisser tiédir dans le moule. Démouler sur une grille et laisser refroidir - Décorer à volonté de chantilly et de cerises confites."
 },
 {
-    image: "",
+    image: "/img/gallery/img_38.jpg",
     authorImg: "/img/top-chiefs/img_3.jpg",
     name: "Granité de pommes",
     slug: "granite-de-pommes",
