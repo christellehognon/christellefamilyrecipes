@@ -626,13 +626,38 @@ export const recipes = [{
         ingredients: ["400g d'orecchiette", "magret fumé en tranches", "1 melon", "basilic", "huile d'olive infusée à l'ail", "parmesan"], 
         description: "Faire cuire les pâtes. Pendant ce temps, faire des billes de melon. Enlever le gras du magret. Quand les pâtes sont cuites, les égoutter et les rafraîchir à l'eau froide. Égoutter à nouveau. Verser les pâtes dans un saladier. Les assaisonner avec l'huile d'olive à l'ail. Bien mélanger. Ajouter le melon, les tranches de magret et des copeaux de parmesan. Ciseler du basilic frais."
     },   
-
-
+    {
+        image: "/img/gallery/img_39.jpg", 
+        authorImg: "/img/top-chiefs/img_1.jpg", 
+        name: "Tian", 
+        slug: "tian", 
+        season: "Été", 
+        type: "Plat", 
+        timeToCook: "30 minutes + 50 minutes de cuisson", 
+        averagePrice: "€", 
+        difficulty: "Facile",
+        isVegetarian: true, 
+        ingredients: ["1.2kg de courgettes", "1 bouquet de persil", "1 bouquet de basilic", "3 gousses d'ail", "6 oeufs", "100g de parmesan", "4 cuillères à soupe d'huile d'olive"], 
+        description: "Râper le courgettes et mettre dans une poêle avec l'huile d'olive. Laisser évaporer toute l'eau. Quand les courgettes commencent à dorer, retirer du feu. Battre les oeufs en omelette. Saler et poivrer. Rajouter ensuite les courgettes ainsi que le parmesan. Verser dans un moule à cake de 1.5 litres préalablement huilé. Mettre au four au bain-marie à 180°C pendant 50 minutes. Démouler et servir avec un coulis de tomates(ou pas) et une salade. Un grand merci à Cécile pour m'avoir partagé sa recette!"
+    },
+    {
+        image: "/img/gallery/img_40.jpg", 
+        authorImg: "/img/top-chiefs/img_1.jpg", 
+        name: "Cake au thon", 
+        slug: "cake-au-thon", 
+        season: "Été", 
+        type: "Plat", 
+        timeToCook: "15 minutes + 45 minutes de cuisson", 
+        averagePrice: "€", 
+        difficulty: "Facile", 
+        ingredients: ["2 boîtes de thon de 185g", "250g de filet de poisson blanc", "3 oeufs", "1 petite brique de tomate frito de 212g", "2 cuillères à soupe de farine"], 
+        description: "Dans un saladier, écraser le thon égoutté. Couper le filet de poisson en petit dés. Les mélanger au thon. Saler et poivrer. Ajouter les 3 oeufs, puis la sauce tomate et la farine. Bien mélanger le tout. Verser dans un moule à cake en silicone. Mettre au four à 210°C pendant 45 minutes. Servir frais accompagné d'une salade."
+    },
     /*{
         image: "", 
         authorImg: "/img/top-chiefs/img_1.jpg", 
-        name: "Lasagnes de Saint Jacques, fondue de poireaux, sauce au beurre blanc", 
-        slug: "lasagnes-de-saint-jacques-fondue de poireux-sauce-au-beurre-blanc", 
+        name: "", 
+        slug: "", 
         season: "Hiver", 
         type: "Plat", 
         timeToCook: "", 
