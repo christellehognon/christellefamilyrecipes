@@ -35,7 +35,7 @@
         .recipe-card-info-button{
             display: flex;
             flex-flow: row wrap;
-            justify-content: space-around;
+            justify-content: space-between;
             .recipe-btn{
                 background-color: var(--primary-color);
                 color: #fff;
