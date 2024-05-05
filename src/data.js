@@ -8,6 +8,7 @@ export const recipes = [{
     timeToCook: "30 minutes",
     averagePrice: "€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["1 l de Lait", "250 g de riz rond", "1 gousse de vanille", "80 g de sucre en poudre"],
     description: "Fendre la gousse de vanille en 2 puis la gratter. Laver le riz. L'ébouillanter 1 minute. Dans une casserole: disposer le lait, la vanille et le riz. Cuire à feu doux jusqu'à ce que le riz ait absorbé tout le liquide. Ajouter le sucre. Laisser refroidir à température ambiante. Dresser dans des verrines."
 },
@@ -34,6 +35,7 @@ export const recipes = [{
     timeToCook: "30 minutes + 50 minutes de cuisson",
     averagePrice: "€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["4 courgettes moyennes", "4 tomates fermes", "2 oignons", "2 gousses d’ail", "100g de riz long", "6 c. à soupe d’huile d’olive", "1 c. à café de thym", "sel", "poivre"],
     description: "Portez à ébullition une casserole d’eau, salez-la et versez-y en pluie le riz. Laissez cuire 15 à 20 min suivant la nature du riz puis égouttez. Pelez et émincez finement les oignons et une gousse d’ail. Faites chauffer 2 c. à soupes d’huile d’olive dans une poêle.  Mettez-y les oignons et l’ail à fondre doucement, en remuant de temps en temps, pendant environ 10 minutes. Lorsque les oignons sont translucides, mélangez-les au riz cuit. Salez, poivrez, vérifiez l’assaisonnement. Allumez le four th 5 (env. 170°C). Lavez et essuyez les tomates et les courgettes . Coupez-les en rondelles régulières d’ ½ cm d’épaisseur. Poudrez légèrement les courgettes de sel fin et laissez dégorger quelques minutes sur su papier absorbant. Epluchez l’autre gousse d’ail. Enduisez un plat à four en terre avec une c. à soupe d’huile d’olive et frottez-le avec la gousse d’ail. Etalez au fond le mélange de riz et d’oignons en une seule couche. Couvrez de rondelles de tomates et de courgettes, en intercalant harmonieusement les couleurs. Saupoudrez avec une c. à café de thym, salez, poivrez, arrosez avec 3 c. à soupe d’huile d’olive. Faites cuire 50 minutes environ au four. Servez chaud ou tiède. Variante : vous pouvez ajouter de fines rondelles d’aubergines (dégorgées) en alternance avec les autres légumes, mais également des lamelles de fromage de chèvre frais et des olives noires hachées. Vous préparerez ainsi un plat complet, idéal pour le dîner. Tour de main : Pour couper facilement tomates et courgettes en rondelles, utilisez toujours un couteau-scie, ce qui facilite l’opération sans risquer de déformer les rondelles. Si les courgettes ont une peau très fine, ne les pelez pas ; en revanche, si elle vous semble un peu épaisse, épluchez-les avec un couteau économe, en laissant une lanière de peau sur deux, c’est plus joli."
 },
@@ -47,6 +49,7 @@ export const recipes = [{
     timeToCook: "15 minutes",
     averagePrice: "€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["3 bocaux d’olives arbequinas de 350g", "1 bouquet garni", "4 gousses d’ail", "4 piments oiseaux", "huile d’olive"],
     description: "Rincer les olives plusieurs fois à l’eau claire. Mettre tous les ingrédients dans un bocal de 1l et recouvrir avec l’huile d’olive. Laisser macérer environ quatre semaines avant dégustation."
 },
@@ -60,6 +63,7 @@ export const recipes = [{
     timeToCook: "30 minutes + 30 minutes de cuisson",
     averagePrice: "€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["1/3 d’oignons blancs et rouges", "1/3 de poivrons rouges verts et jaunes", "1/3 de tomates pas trop mûres", "huile d’olive", "vinaigre balsamique", "câpres", "ail pressé", "herbes aromatiques au choix", "sel", "poivre"],
     description: "Couper l’ensemble des légumes en petits dés. Faire cuire très lentement chaque légume à part. Puis les mélanger doucement et prolonger la cuisson 15 à 20 minutes. La veille de la cuisson, préparer une vinaigrette corsée. Egoutter un peu la frita pour éliminer le jus de tomates. Ajouter la vinaigrette, mélanger et laisser au frais. Servir sur des petites cuillères ou en verrines."
 },
@@ -73,6 +77,7 @@ export const recipes = [{
     timeToCook: "30 minutes + 25 minutes de cuisson",
     averagePrice: "€€",
     difficulty: "Technique",
+    isVegetarian: true,
     ingredients: ["3 cuillères à soupe de Maïzena", "2 sachets de sucre vanillé", "1/2 sachet de levure", "6 oeufs", "250g de sucre", "250g de chocolat", "100g d’amandes en poudre", "250g de beurre"],
     description: "Séparer les blancs et les jaunes des oeufs. Fouetter les jaunes et le sucre jusque’à ce qu’ils blanchissent. Mettre les 250g de chocolat brisés dans une casserole. Faire fondre au bain-marie. Ajouter aux jaunes, mélanger. Ajouter la poudre d'amandes avec la levure, la maïzena et le beurre ramolli. Puis 3 blancs d'oeufs battus en neige avec la pincée de sel. Mélanger délicatement. Verser dans le moule beurré et saupoudrer de sucre semoule. Ne remplir qu'aux 3/4, et mettre à four chaud 210°C (th. 6-7). Cuire rapidement pour conserver le milieu de la pâte crémeuse (25 min). Laisser tiédir dans le moule. Démouler sur une grille et laisser refroidir - Décorer à volonté de chantilly et de cerises confites."
 },
@@ -86,6 +91,7 @@ export const recipes = [{
     timeToCook: "30 minutes + 25 minutes de cuisson",
     averagePrice: "€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["75g de farine", "1 cuillère à café rase de canelle", "1 pincée de sel", "25g de sucre en poudre", "50g de beurre ramolli", "4 grosses pommes", "50g de sucre", "50g d'eau"],
     description: "Pour le granité, mélanger à la fourchette pour être bien fluide (pas de grumeaux) la farine, le sucre puis le beurre la canelle et le sucre vanillé. Faire un sable. Couper les pommes en tranches fines. Les faire sauter dans une poêle dans un sirop de sucre (eau et 100g de sucre). Les faire revenir rapidement. Laisser refroidir. Mettre les pommes dans un moule de 26 cm environ et répendre le sable. Mettre au four à 210°C environ 25’. Servir tiède avec une crème pâtissière très froide."
 },
@@ -99,6 +105,7 @@ export const recipes = [{
     timeToCook: "30 minutes",
     averagePrice: "€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["1/2l de lait", "4 oeufs dont 3 jaunes", "1 pincée de sel", "100g de sucre", "1 gousse  de vanille", "40g de farine"],
     description: "Faire bouillir le lait avec la gousse de vanille fendue. Dans un cul-de-poule, blanchir les jaunes d'oeufs avec le sucre, puis ajouter la farine. Verser le lait chaud dessus petit à petit et remettre le tout dans la casserole. Cuire à feu doux et faire épaissir. Débarrasser ensuite sur une plaque et recouvrir d'un papier film au contact. Réserver."
 },
@@ -125,6 +132,7 @@ export const recipes = [{
     timeToCook: "15 minutes + 45 minutes de cuisson",
     averagePrice: "€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["1 yaourt", "1 pot d’huile de tournesol", "3 pots de sucre", "4 pots de farine", "3 oeufs", "1 sachet de levure chimique", "1 sachet de sucre vanillé"],
     description: "Mettre le four à chauffer à 180°C. Mélanger tous les ingrédients afin d’obtenir une pâte bien lisse. Verser dans un moule à manquer. Mettre à four chaud pendant environ 45’."
 },
@@ -138,6 +146,7 @@ export const recipes = [{
     timeToCook: "15 minutes + 45 minutes de cuisson",
     averagePrice: "€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["2 yaourts natures ou aromatisés", "2 pots de sucre", "4 pots de farine", "1/2 pot d’huile de tournesol", "1 sachet de levure chimique", "1 sachet de sucre vanillé"],
     description: "Mettre le four à chauffer à 180°C. Mélanger tous les ingrédients dans un plat creux. Verser la préparation dans un moule à cake en silicone. Mettre à four chaud pendant environ 45’. Ne le démouler que lorsque le gateau est froid."
 },
@@ -151,6 +160,7 @@ export const recipes = [{
     timeToCook: "15 minutes",
     averagePrice: "€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["250g de farine", "3 oeufs", "1/2l de lait", "1 à 2 cuillères de sucre", "1 cuillère d’huile", "1 pincée de sel", "1 à 2 cuillères de rhum"],
     description: "Faire une fontaine avec la farine. Y mettre les oeufs battus au fouet. Verser le lait par petites quantités. Ajouter ensuite l'huile, le sel, le sucre et le rhum. Laisser reposer une heure."
 },
@@ -190,6 +200,7 @@ export const recipes = [{
     timeToCook: "10 minutes + 20 minutes de cuisson",
     averagePrice: "€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["200g de beurre", "4 oeufs", "200g de sucre", "200g de chocolat", "80g de farine"],
     description: "Faire fondre au bain-marie le chocolat et le beurre. Hors du feu, ajouter le sucre. Puis la farine. Ajouter les oeufs un par un en mélangeant bien afin d'obtenir une pâte  bien lisse. Enfourner à four chaud(220°C) pendant 5 minutes. Puis, baisser le four à 200°C pendant environ 15 minutes."
 },
@@ -216,6 +227,7 @@ export const recipes = [{
     timeToCook: "20 minutes et 30 à 40 minutes de cuisson",
     averagePrice: "€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["beurre", "sucre en poudre", "farine", "4 œufs", "1 citron"],
     description: "Allumez votre four à thermostat 5 (150°C). Peser les oeufs et mettre le même poids de farine de sucre et de beurre. Casser les oeufs en séparant les blancs des jaunes. Mélanger les jaunes, le sucre et le jus de citron jusqu’à ce que le mélange blanchisse. Puis ajouter le beurre tiède et fondu en pommade. Et enfin la farine. Remuer avec une cuillère en bois afin que le mélange soit bien fait. Battre ensuite les blancs en neige très fermes. Incorporer délicatement à la préparation. Beurrer un moule à cake et le remplir à moitié avec la pâte. Mettre au four préchauffé à 150°C pendant une heure. Le gâteau doit gonfler de moitié."
 },
@@ -229,6 +241,7 @@ export const recipes = [{
     timeToCook: "10 minutes + 5 minutes de cuisson",
     averagePrice: "€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["150g de chocolat", "4 oeufs"],
     description: "Casser en morceaux le chocolat et faire fondre au bain-marie avec 1 ou 2 cuillères à soupe d'eau. Travailler avec une spatule pour obtenir un mélange très lisse. Verser ensuite ce chocolat fondu dans une grande terrine. Ajouter un à un les jaunes d'oeufs en mélangeant après chaque addition. Battre les blancs en neige très fermes et les incorporer délicatement au mélange en soulevant bien pour obtenir une mousse légère. Mettre au frigo au moins trois heures avant dégustation."
 },
@@ -268,6 +281,7 @@ export const recipes = [{
     timeToCook: "10 minutes + 15 minutes de cuisson",
     averagePrice: "€€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["50g de poudre d'amandes", "70g de farine", "150g de sucre en poudre", "4 blancs d'oeufs", "100g de beurre"],
     description: "Faire fondre le beure. Bien mélanger tous les ingrédients, puis rajouter le beurre fondu. Mettre à four modéré pendant 15 minutes environ."
 },
@@ -281,6 +295,7 @@ export const recipes = [{
     timeToCook: "20 minutes + 10 minutes de cuisson",
     averagePrice: "€",
     difficulty: "Technique",
+    isVegetarian: true,
     ingredients: ["2 oeufs", "4 cuillères de farine", "4 cuillères de sucre", "1 boîte de crème Mont-Blanc au chocolat", "levure chimique"],
     description: "Mettre les ingrédients sans la levure dans un récipient. Quand la pâte est lisse, mettre une cuillère à café de levure. Verser sur une plaque à pâtisserie couverte d'une feuille de papier sulfurisé. Cuire à four chaud (210°C) 5 à 10 minutes. Démouler sur un linge humide saupoudré de sucre. Étaler une couche de crème Mont-Blanc. Rouler le gâteau."
 },
@@ -294,6 +309,7 @@ export const recipes = [{
     timeToCook: "20 minutes + 45 minutes de cuisson",
     averagePrice: "€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["4 œufs", "9 cuillerées à soupe de sucre semoule", "1 pincée de sel", "5 cuillerées à soupe de farine", "1/4l de lait", "60g de beurre", "4 ou 5 pommes", "1 sachet de sucre vanillé"],
     description: "Couper les pommes en tranches pas trop fines. Allumer le four à 180°C. Battre les œufs entiers en omelette, ajouter le sel et le sucre semoule. Bien mélanger. Tamiser la farine et la jeter en pluie dans les œufs. Mélanger jusqu'à ce que le mélange soit bien lisse. Faire fondre la moitié du beurre dans le four et l’ajouter à la pâte, une fois légèrement refroidi. Délayer enfin avec le lait. Beurrer un plat en verre. Disposer les pommes dans ce plat. Verser la pâte dessus. Parsemer de quelques noisettes de beurre. Faire cuire à four moyen (jusqu'à ce que le dessus commence à dorer). Dès la sortie du four, saupoudrer de sucre vanillé. Servir tiède."
 },
@@ -307,6 +323,7 @@ export const recipes = [{
     timeToCook: "20 minutes + 20 minutes de cuisson",
     averagePrice: "€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["1/2 litre de lait", "4 jaunes d'œufs", "75g de sucre", "1/2 bâton de vanille", "4 blancs d'œufs", "1 pincée de sel", "25g de sucre"],
     description: "Crème anglaise : dans un récipient, travailler les jaunes d'œufs avec le sucre, ajouter doucement le lait bouillant, sans cesser de tourner. Verser dans une casserole et faire épaissir à feu doux (la crème ne doit surtout pas bouillir). Dès que le mélange nappe la cuillère en bois, verser dans un compotier et mettre au frais. Préparer ensuite la neige. Mettre à bouillir de l'eau et battre les blancs en attente avec 1 pincée de sel; sucrer. Le mélange doit être très ferme. Quand l'eau bout, régler le feu de manière à obtenir un simple frémissement en surface. Pocher alors les blancs par cuillerées, en comptant 1 mn pour chaque face. Egoutter sur du papier absorbant et disposer sur la crème comme des pétales. Servir froid."
 },
@@ -320,6 +337,7 @@ export const recipes = [{
     timeToCook: "15 minutes + 55 minutes de cuisson",
     averagePrice: "€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["200g de farine", "100g de beurre", "1 pincée de sucre", "1 pincée de sel", "1/3 de verre d'eau", "1 kg et demi de pommes calville", "125g de beurre", "125g de sucre semoule", "1 sachet de sucre vanillé", "1/2 cuillerée à café de cannelle en poudre", "1 citron"],
     description: "Mettre dans un saladier huit cuillerées à soupe de farine. 100 grammes de beurre coupé en petits morceaux, une pincée de sucre et une pincée de sel. Mélanger en pressant entre les paumes de vos mains de façon à former une pâte granuleuse. Ajouter alors un tiers de verre à moutarde d'eau. Mélanger de nouveau, toujours avec les mains, et former une boule de pâte. Mettre de côté. Peler sept grosses pommes. Couper les fruits en deux dans le sens de la hauteur. Enlever les cœurs et les pépins avec un petit couteau pointu. Allumer le four à 210°C. Dans un moule rond & bords lisses de 5 à 6 centimètres de profondeur mettre 125 grammes de beurre et 125 grammes de sucre semoule. Allumer le gaz à feu fort, poser dessus le moule. Quand le sucre commence à blondir, enlever le moule du feu et mettre dedans les demi-pommes « debout », bien serrées les unes contre les autres. Saupoudrer d'un sachet de sucre vanillé. Ajouter deux pincées de cannelle. Râper au-dessus un peu de zeste de citron. Remettre le moule sur le gaz allumé à feu doux et laisser cuire les pommes une demi-heure. Pendant ce temps, sur la table bien farinée, avec le rouleau à pâtisserie, étaler la pâte sur un demi-centimètre d'épaisseur. Les pommes ayant cuit une demi-heure, elles sont tendres et légèrement caramélisées. Enlever le moule du feu et laisser tiédir. Quand elles sont froides, recouvrir d'une couche de pâte, en évitant de la replier sur les bords extérieurs du moule. II faut que le bord de la pâte soit à l'intérieur du moule et non à l'extérieur. Mettre le moule dans le four chaud et faites cuire pendant vingt-cinq minutes. Servir cette tarte tiède ou froide en retournant le moule de façon que les pommes se trouvent sur le dessus. Ne pas démouler à la sortie du four, attendre que la tarte soit tiède."
 },
@@ -372,6 +390,7 @@ export const recipes = [{
     timeToCook: "15 minutes + 45 minutes de cuisson",
     averagePrice: "€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["250g de pâte à lasagnes", "350g d'épinards frais", "400g de fromage de chèvre frais", "1/2l de lait", "50g de beurre", "50g de farine", "200g d'emmental rapé", "sel", "poivre"],
     description: "Faire cuire les épinards. Préparer la béchamel. Faire fondre le beurre dans une grande casserole, ajouter la farine et laisser cuire doucement pendant 2 min, sans coloration et tout en mélangeant. Incorporer le lait au fur et à mesure à l'aide d'un fouet, puis porter à ébullition et cuire 2 min. Saler et poivrer et ajouter 1/4 litre d'eau chaude. Préchauffer le four à 180 °C. Dans un plat à lasagne, verser une louche de béchamel et 1/2 louche d'eau, puis superposer des couches de lasagne préalablement trempées dans de l'eau froide, d'épinards, de chèvre et de béchamel. Terminer avec une couche de lasagne, couvrir de béchamel et d'emmental râpé. Couvrir le plat avec du papier aluminium et l'enfourner à 180 °C pendant 20 min. Retirer ensuite l'aluminium et laisser les lasagne griller pendant 5 min. Laisser reposer 5 min puis servir."
 },
@@ -398,6 +417,7 @@ export const recipes = [{
     timeToCook: "10 minutes + 45 minutes de cuisson",
     averagePrice: "€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["1 pâte brisée", "2 courgettes", "5 oeufs", "20cl de crème fraîche", "1 chèvre bûche de 300g", "thym"],
     description: "Dans un saladier, battre les oeufs, ajouter la crème. Éplucher les courgettes et les couper en rondelles. Mettre la pâte dans un moule à tarte. Répartir les rondelles de courgettes et le chèvre coupé en tranches. Verser la préparation. Parsemer de thym. Mettre à four chaud à 210°C pendant environ 45 minutes. Servir avec une salade verte."
 },
@@ -437,6 +457,7 @@ export const recipes = [{
     timeToCook: "15 minutes + 45 minutes de cuisson",
     averagePrice: "€€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["200g de polenta", "60cl de bouillon de légumes", "40cl de lait", "25g de beurre", "40g de parmesan", "4 cuillères à soupe d'huile d'olive"],
     description: "Dans une casserole, porter à ébullition le bouillon et le lait. Verser en pluie la polenta et remuer énergiquement. Ajouter le parmesan et faire cuire 5 minutes. Étaler la polenta sur une plaque beurrée. Laisser refoirdir. Détailler la polenta à l'emporte pièce. Verser l'huile d'olive dans la poêle, faire dorer environ 3 minutes de chaque côté selon la grosseur. "
 },
@@ -450,6 +471,7 @@ export const recipes = [{
     timeToCook: "10 minutes",
     averagePrice: "€€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["1 bouteille de Champagne", "Cointreau", "sirop de citron vert", "sucre de canne", "250g de framboises surgelées"],
     description: "Choisir un joli contenant transparent avec une large ouverture. La bouteille de Champagne doit être bien fraîche. Mettre dans l'ordre une louche de cointreau, une louche de citron vert, une louche de sucre de canne. Pencher un peu le contenant et verser doucement le Champagne sur le rebord. Mélanger très légèrement en versant les framboises surgelées. Servir à la louche, de préférence dans des coupes ou des verres aux bords un peu larges"
 },
@@ -463,6 +485,7 @@ export const recipes = [{
     timeToCook: "15 minutes + 5 minutes de cuisson",
     averagePrice: "€€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["4 blancs d'oeufs", "2 jaunes", "125g d'amandes éffilées", "200g de sucre semoule", "2 sachets de sucre vanillé", "100g de farine", "80g de beurre fondu"],
     description: "Préchauffer le four à 180°C. Battre les blancs avec le sucre et le sucre vanillé à la main au moins 4 minutes. Ajouter la farine, le beurre, les jaunes et les amandes. Mettre du papier sulfurisé sur une plaque de cuisson. Mettre une cuillère à soupe de pâte et l'étaler. Ajouter quelques amandes au-dessus. Cela sur toute la plaque en les espaçant pour qu'elles ne se collent pas entre elles. Enfourner 4 à 5 minutes. Bien surveiller. Les sortir du four dès qu'elles soient dorées.Les décoller rapidement et les coller sur un rouleau à pâtisserie pour qu'elles en prennent la forme. Les mettre dans un bocal hermétique dès qu'elles ont refroidi. Les tuiles peuvent se conserver plusieurs semaines."
 },
@@ -476,6 +499,7 @@ export const recipes = [{
     timeToCook: "10 minutes + 40 minutes de cuisson",
     averagePrice: "€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["3 grosse aubergines", "3 gousses d’ail", "6 branches de thym", "6 cuillères à soupe d’huile d’olive", "sel", "poivre"],
     description: "Préchauffer le four à 200°C. Nettoyer les aubergines et les ouvrir en 2 dans le sens de la longueur. Les déposer sur une plaque de cuisson recouverte de papier sulfurisé. Les inciser légèrement. Saler, poivrer. Déposer le thym et arroser d’un filet d’huile d’olive. Enfourner pendant 30 à 40 minutes. Avec une cuillère retirez la chair des aubergines. Mixez la avec les gousses d’ail dégermées pressées pour obtenir une purée fine. Rectifier l’assaisonnement et ajouter un filet d'huile d'olives si besoin."
 
@@ -503,6 +527,7 @@ export const recipes = [{
     timeToCook: "1 heure + 10 minutes de cuisson par plaque",
     averagePrice: "€",
     difficulty: "Technique",
+    isVegetarian: true,
     ingredients: ["200g de poudre d'amandes", "200g de sucre glace", "150g de blancs d'oeuf", "200g de sucre en poudre", "5cl d'eau", "1g de colorant alimentaire en poudre"],
     description: "Préchauffer le four à 140°C. Pour colorer les coques avec du cacao, diminuer la quantité de poudre d'amandes: pour 30g de cacao il ne faut que 170g de poudre d'amandes. Verser la poudre d'amande et le sucre glace ,et le cacao le cas échéant, dans un mixeur. Faire tourner pendant 30 secondes pour affiner le mélange (tant pour tant), puis tamiser. Dans une casserole, mélanger l'eau et le sucre semoule avec une spatule et cuire à 118-119 °C. Avant d'atteindre cette température, mettre 75g de blancs dans la cuve d'un batteur et les monter. Lorsque le sucre a atteint la bonne température, le verser sur les blancs montés en laissant couler un filet du sirop le long de la paroi du bol. Ajouter le colorant en poudre si nécessaire. Continuer à fouetter ensuite jusqu'à refroidissement de la meringue. Verser le reste de blancs d’œufs sur le tant pour tant. Incorporer une petite partie de la meringue froide à ce mélange, puis ajouter le reste petit à petit en macaronant la pâte. Remplir une poche à douille avec cette préparation et dresser les macarons sur du papier sulfurisé. Lâcher la plaque de 50cm de hauteur afin de chasser les bulles d'air. Laisser crôuter 15 minutes. Enfourner pendant 10 minutes en tournant la plaque à mi-cuisson. Laisser ensuite les coques refroidir avant de les décoller du papier cuisson. Remplir une poche à douille avec la préparation choisie. Coller les coques deux par deux"
 },
@@ -516,6 +541,7 @@ export const recipes = [{
     timeToCook: "15 minutes",
     averagePrice: "€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["200g de chocolat blanc", "20g de gingembre", "10cl de crème liquide entière"],
     description: "Faire fondre le chocolat blanc au bain-marie. Peler le gingembre et le râper. Dans une casserole, disposer la crème avec le gingembre, puis porter à ébullition. Verser en 3 fois sur le chocolat fondu. Laisser prendre au réfrigérateur."
 },
@@ -529,6 +555,7 @@ export const recipes = [{
     timeToCook: "15 minutes",
     averagePrice: "€",
     difficulty: "Facile",
+    isVegetarian: true,
     ingredients: ["200g de framboise surgelées", "120g de sucre", "1g d'Agar Agar, 1/2 fève de Tonka"],
     description: "Mettre le sucre dans une poêle, laisser colorer jusqu'à obtention d'un caramel, puis ajouter les framboises surgelées et la fève de tonka râpée. Laisser évaporer l'eau jusqu'à obtenir une marmelade. Puis porter à ébullition 1 minute avec l'agar-agar. Laisser prendre au réfrigérateur."
 },
@@ -554,7 +581,8 @@ export const recipes = [{
         type: "Dessert", 
         timeToCook: "15 minutes + 35 minutes de cuisson", 
         averagePrice: "€", 
-        difficulty: "Facile", 
+        difficulty: "Facile",
+        isVegetarian: true, 
         ingredients: ["4 pommes granny smith", "4 oeufs", "100g de sucre", "25cl de crème épaisse", "1 pâte feuilletée", "1 sachet de sucre vanillé"], 
         description: "Préchauffer le four à 200 degrés. Peler les pommes. Mettre la pâte feuilletée dans un moule à tarte. Disposer les trannches de pommes. Dans un récipient, battre les oeufs, la crème et le sucre. Mettre à four chaud. À la sortie du four, parsemer de sucre vanillé."
     },
@@ -580,7 +608,8 @@ export const recipes = [{
         type: "Apéritif", 
         timeToCook: "30 minutes + 45 minutes de cuisson", 
         averagePrice: "€", 
-        difficulty: "Facile", 
+        difficulty: "Facile",
+        isVegetarian: true,
         ingredients: ["1kg de poivrons rouges bio", "sucre à confiture", "safran"], 
         description: "Éplucher les poivrons à l'aide d'un économe prévu à cet effet. Les mixer. Les peser puis ajouter la moitié du poids des poivrons en sucre et le safran. Faire cuire la confiture à gros bouillon jusqu'à ébullition sans cesser de remuer. Enlever l'écume si besoin. Continuer la cuisson à feu doux jusqu'à ce qu' elle fige au contact d'une assiette froide. Servir en toast avec du fromage."
     }, 
@@ -590,7 +619,7 @@ export const recipes = [{
         name: "Salade de pâtes au melon et au magret fumé", 
         slug: "salade-de-pates-au-melon-et-au-magret-fume", 
         season: "Été", 
-        type: "Plat", 
+        type: "Salade", 
         timeToCook: "20 minutes", 
         averagePrice: "€", 
         difficulty: "Facile", 

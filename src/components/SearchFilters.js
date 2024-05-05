@@ -4,7 +4,7 @@ import { faSearch } from "@fortawesome/free-solid-svg-icons"
 import { recipes } from "../data"
 
 const SearchFilters = ( {filteredRecipes, setFilteredRecipes }) => {
-    const searches = ['Apéritif', 'Entrée', 'Plat', 'Dessert'];
+    const searches = ['Apéritif', 'Entrée', 'Plat', 'Salade', 'Dessert', 'Végétarien'];
     
 
     const filterBySearch = (event) => {
@@ -22,9 +22,14 @@ const SearchFilters = ( {filteredRecipes, setFilteredRecipes }) => {
 
     const filterByType = (event) => {
         const type = event.target.value;
-        var updatedList = recipes.sort((a, b) => (a.slug.localeCompare(b.slug)));
-        updatedList = updatedList.filter((item) => {return item.type.toLowerCase().indexOf(type.toLowerCase()) !== -1;})
+        if(type !== 'Végétarien') {
+            var updatedList = recipes.sort((a, b) => (a.slug.localeCompare(b.slug)));
+            updatedList = updatedList.filter((item) => {return item.type.toLowerCase().indexOf(type.toLowerCase()) !== -1;})
             setFilteredRecipes(updatedList);
+        } else {
+            var updatedList = recipes.filter((item) => {return item.isVegetarian})
+            setFilteredRecipes(updatedList);
+        }
     };
 
     return (
