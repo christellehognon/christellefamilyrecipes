@@ -665,6 +665,19 @@ export const recipes = [{
         difficulty: "Facile", 
         ingredients: ["200 g de farine", "100 ml d’eau", "1 c. à s de maïzena", "200 g de viande hachée (mélange porc-veau)", "1 gousse d’ail", "1 botte de ciboulette", "Sauce soja", "Huile de sésame"], 
         description: "Faire bouillir de l’eau. Verser la farine et une pincée de sel dans un récipient puis ajouter l’eau bouillante. Pétrir et humidifier si nécessaire jusqu’à l’obtention d’une pâte bien lisse (5 à 7 minutes). Former une boule et filmer, puis laisser reposer 15 minutes. Mettre la viande hachée dans un bol. Ajouter la gousse d’ail émincée, la ciboulette finement ciselée puis saler et poivrer. Ajouter la maïzena, une cuillère à soupe de sauce soja et d’huile de sésame, puis mélanger. Fariner le plan de travail. Rouler la pâte en forme de cylindre et la découper en disques. Etaler les disques un à un le plus finement possible, jusqu’à ce que l’on puisse légèrement voir ses doigts en transparence à travers (on peut également utiliser un laminoir). Pour former les gyozas, déposer avec une fourchette de la farce dans un disque de pâte, humidifier les extrémités puis replier la partie sèche en quatre rabats sur la partie humide. Une fois que tous les gyozas sont terminés, les disposer en cercle dans un poêle (non-adhésive) et les faire dorer à l’huile de sésame. Ensuite, mélanger une cuillère à soupe de maïzena dans environ 150 ml d’eau, verser le mélange sur les gyozas puis couvrir et cuire 10 minutes à feu moyen. Retirer le couvercle et laisser dorer quelques minutes à nouveau, puis retourner la poêle dans une assiette. C’est prêt ! A déguster avec de la sauce soja, ou nature."
+    },
+    {
+        image: "", 
+        authorImg: "/img/top-chiefs/img_6.jpg", 
+        name: "Pâtés impériaux", 
+        slug: "pates-imperiaux", 
+        season: "Toutes saisons", 
+        type: "Plat",
+        timeToCook: "45 minutes + 15 minutes", 
+        averagePrice: "€", 
+        difficulty: "Facile", 
+        ingredients: ["300g de porc hâché", "2 boîtes de crabe", "1/2 sachet de vermicelle chinois", "1/2 sachet de champignons noirs", "2 oeufs", "2 gousses d'ail", "2 oignons", "1 petit bouquet de persil"], 
+        description: "Faire tremper les champignons pendant 20 minutes dans de l'eau tiède et le vermicelle pendant 10 minutes dans de l'eau froide. Hâcher finement les ingrédients de la garniture, bien mélanger. Étaler les galettes sur le plan de travail et les mouiller à l'aide d'une éponge imbibée d'eau. Attendre quelques secondes pour qu'elles deviennent malléables. Les garnir de farce et les rouler. Faire chauffer l'huile dans une poêle et faire frire les rouleaux 15 minutes jusqu'à ce qu'ils soient bien dorés. Servir avec de la salade, de la menthe fraîche et de la sauce nuoc mam."
     }
     /*{
         image: "", 
