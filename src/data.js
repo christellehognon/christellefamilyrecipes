@@ -653,6 +653,19 @@ export const recipes = [{
         ingredients: ["2 boîtes de thon de 185g", "250g de filet de poisson blanc", "3 oeufs", "1 petite brique de tomate frito de 212g", "2 cuillères à soupe de farine"], 
         description: "Dans un saladier, écraser le thon égoutté. Couper le filet de poisson en petit dés. Les mélanger au thon. Saler et poivrer. Ajouter les 3 oeufs, puis la sauce tomate et la farine. Bien mélanger le tout. Verser dans un moule à cake en silicone. Mettre au four à 210°C pendant 45 minutes. Servir frais accompagné d'une salade."
     },
+    {
+        image: "/img/gallery/img_41.jpg", 
+        authorImg: "/img/top-chiefs/img_6.jpg", 
+        name: "Gyosas", 
+        slug: "gyosas", 
+        season: "Toutes saisons", 
+        type: "Plat", 
+        timeToCook: "45 minutes + 20 minutes de cuisson", 
+        averagePrice: "€", 
+        difficulty: "Facile", 
+        ingredients: ["200 g de farine", "100 ml d’eau", "1 c. à s de maïzena", "200 g de viande hachée (mélange porc-veau)", "1 gousse d’ail", "1 botte de ciboulette", "Sauce soja", "Huile de sésame"], 
+        description: "Faire bouillir de l’eau. Verser la farine et une pincée de sel dans un récipient puis ajouter l’eau bouillante. Pétrir et humidifier si nécessaire jusqu’à l’obtention d’une pâte bien lisse (5 à 7 minutes). Former une boule et filmer, puis laisser reposer 15 minutes. Mettre la viande hachée dans un bol. Ajouter la gousse d’ail émincée, la ciboulette finement ciselée puis saler et poivrer. Ajouter la maïzena, une cuillère à soupe de sauce soja et d’huile de sésame, puis mélanger. Fariner le plan de travail. Rouler la pâte en forme de cylindre et la découper en disques. Etaler les disques un à un le plus finement possible, jusqu’à ce que l’on puisse légèrement voir ses doigts en transparence à travers (on peut également utiliser un laminoir). Pour former les gyozas, déposer avec une fourchette de la farce dans un disque de pâte, humidifier les extrémités puis replier la partie sèche en quatre rabats sur la partie humide. Une fois que tous les gyozas sont terminés, les disposer en cercle dans un poêle (non-adhésive) et les faire dorer à l’huile de sésame. Ensuite, mélanger une cuillère à soupe de maïzena dans environ 150 ml d’eau, verser le mélange sur les gyozas puis couvrir et cuire 10 minutes à feu moyen. Retirer le couvercle et laisser dorer quelques minutes à nouveau, puis retourner la poêle dans une assiette. C’est prêt ! A déguster avec de la sauce soja, ou nature."
+    }
     /*{
         image: "", 
         authorImg: "/img/top-chiefs/img_1.jpg", 
@@ -693,5 +706,10 @@ export const chiefs = [
         name: "La Mémette",
         img: "/img/top-chiefs/img_5.jpg",
         description: "Ma maman de coeur qui m'a tout appris de la cuisine du sud-ouest, mais pas que!"
+    },
+    {
+        name: "Éponine",
+        img: "/img/top-chiefs/img_6.jpg",
+        description: "Une future top-chef!"
     },
 ];
