@@ -689,7 +689,7 @@ export const recipes = [{
         timeToCook: "20 minutes", 
         averagePrice: "€", 
         difficulty: "Facile", 
-        ingredients: ['250g de torti trois couleurs', '1 poivron rouge', '1 concombre pépino', 'mayonnaise', '60g de parmesan'], 
+        ingredients: ['250g de torti trois couleurs', '200g de crevettes bio', '1 poivron rouge', '1 concombre pépino', 'mayonnaise', '60g de parmesan'], 
         description: "Faire cuire les pâtes à grande eau. Pendant ce temps tailler le concombre et le poivron en petits dés. Rincer les pâtes à l'eau froide. Mélanger les pâtes, le cocombre et le poivron dans un saladier. Napper de mayonnaise. Verser le parmeson. Bien mélanger le tout. Servir bien frais."
     }
     /*{
