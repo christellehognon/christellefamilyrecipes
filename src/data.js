@@ -676,7 +676,7 @@ export const recipes = [{
         timeToCook: "45 minutes + 15 minutes", 
         averagePrice: "€", 
         difficulty: "Facile", 
-        ingredients: ["300g de porc hâché", "2 boîtes de crabe", "1/2 sachet de vermicelle chinois", "1/2 sachet de champignons noirs", "2 oeufs", "2 gousses d'ail", "2 oignons", "1 petit bouquet de persil"], 
+        ingredients: ["300g de porc hâché", "2 boîtes de crabe", "1/2 sachet de vermicelle chinois", "1/2 sachet de champignons noirs", "2 oeufs", "2 gousses d'ail", "2 oignons", "1 petit bouquet de persil", "galettes de riz", "3 carottes"], 
         description: "Faire tremper les champignons pendant 20 minutes dans de l'eau tiède et le vermicelle pendant 10 minutes dans de l'eau froide. Hâcher finement les ingrédients de la garniture, bien mélanger. Étaler les galettes sur le plan de travail et les mouiller à l'aide d'une éponge imbibée d'eau. Attendre quelques secondes pour qu'elles deviennent malléables. Les garnir de farce et les rouler. Faire chauffer l'huile dans une poêle et faire frire les rouleaux 15 minutes jusqu'à ce qu'ils soient bien dorés. Servir avec de la salade, de la menthe fraîche et de la sauce nuoc mam."
     },
     {
@@ -690,7 +690,7 @@ export const recipes = [{
         averagePrice: "€", 
         difficulty: "Facile", 
         ingredients: ['250g de torti trois couleurs', '200g de crevettes bio', '1 poivron rouge', '1 concombre pépino', 'mayonnaise', '60g de parmesan'], 
-        description: "Faire cuire les pâtes à grande eau. Pendant ce temps tailler le concombre et le poivron en petits dés. Rincer les pâtes à l'eau froide. Mélanger les pâtes, le concombre et le poivron dans un saladier. Napper de mayonnaise. Verser le parmesan. Bien mélanger le tout. Servir bien frais."
+        description: "Faire cuire les pâtes à grande eau. Pendant ce temps tailler le concombre et le poivron en petits dés. Rincer les pâtes à l'eau froide. Mélanger les pâtes, le cocombre et le poivron dans un saladier. Napper de mayonnaise. Verser le parmesan. Bien mélanger le tout. Servir bien frais."
     }
     /*{
         image: "", 
