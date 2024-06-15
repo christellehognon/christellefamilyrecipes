@@ -476,7 +476,7 @@ export const recipes = [{
     description: "Choisir un joli contenant transparent avec une large ouverture. La bouteille de Champagne doit être bien fraîche. Mettre dans l'ordre une louche de cointreau, une louche de citron vert, une louche de sucre de canne. Pencher un peu le contenant et verser doucement le Champagne sur le rebord. Mélanger très légèrement en versant les framboises surgelées. Servir à la louche, de préférence dans des coupes ou des verres aux bords un peu larges"
 },
 {
-    image: "",
+    image: "/img/gallery/img_44.jpg",
     authorImg: "/img/top-chiefs/img_5.jpg",
     name: "Tuiles aux amandes",
     slug: "tuiles-aux-amandes",
@@ -691,6 +691,19 @@ export const recipes = [{
         difficulty: "Facile", 
         ingredients: ['250g de torti trois couleurs', '200g de crevettes bio', '1 poivron rouge', '1 concombre pépino', 'mayonnaise', '60g de parmesan'], 
         description: "Faire cuire les pâtes à grande eau. Pendant ce temps tailler le concombre et le poivron en petits dés. Rincer les pâtes à l'eau froide. Mélanger les pâtes, le cocombre et le poivron dans un saladier. Napper de mayonnaise. Verser le parmesan. Bien mélanger le tout. Servir bien frais."
+    },
+    {
+        image: "/img/gallery/img_29.jpg", 
+        authorImg: "/img/top-chiefs/img_1.jpg", 
+        name: "Ganache mojito", 
+        slug: "ganache-mojito", 
+        season: "Toutes", 
+        type: "Dessert", 
+        timeToCook: "15 minutes", 
+        averagePrice: "€", 
+        difficulty: "Facile", 
+        ingredients: ['15cl de crème liquide entière', '150g de chocolat blanc', '2cl de rhum', '2 citron verts', 'menthe fraîche', '60g de poudre d\'amandes'], 
+        description: "Faire fondre le chocolat blanc au bain-marie. Laver et zester les citrons verts. Laver et effeuiller la menthe. Dans une casserole, disposer la crème avec les feuilles de menthe et les zestes de citron, puis porter à ébullition. Mixer le tout dans un blender. Verser en 3 fois sur le chocolat fondu. Terminer avec le rhum et la poudre d'amande. Refroidir la préparation. À l'aide d'une poche à douille, garnir les coques de macarons."
     }
     /*{
         image: "", 
