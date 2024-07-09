@@ -707,7 +707,7 @@ export const recipes = [{
     },
     {
         image: "/img/gallery/img_45.jpg", 
-        authorImmg: "/img/top-chiefs/img_1.jpg", 
+        authorImg: "/img/top-chiefs/img_1.jpg", 
         name: "Magret séché", 
         slug: "magret-seche", 
         season: "Toutes", 
