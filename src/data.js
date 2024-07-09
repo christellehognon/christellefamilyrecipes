@@ -704,6 +704,19 @@ export const recipes = [{
         difficulty: "Facile", 
         ingredients: ['15cl de crème liquide entière', '150g de chocolat blanc', '2cl de rhum', '2 citron verts', 'menthe fraîche', '60g de poudre d\'amandes'], 
         description: "Faire fondre le chocolat blanc au bain-marie. Laver et zester les citrons verts. Laver et effeuiller la menthe. Dans une casserole, disposer la crème avec les feuilles de menthe et les zestes de citron, puis porter à ébullition. Mixer le tout dans un blender. Verser en 3 fois sur le chocolat fondu. Terminer avec le rhum et la poudre d'amande. Refroidir la préparation. À l'aide d'une poche à douille, garnir les coques de macarons."
+    },
+    {
+        image: "/img/gallery/img_45.jpg", 
+        authorImmg: "/img/top-chiefs/img_1.jpg", 
+        name: "Magret séché", 
+        slug: "magret-seche", 
+        season: "Toutes", 
+        type: "Apéritif", 
+        timeToCook: "5 minutes", 
+        averagePrice: "€€", 
+        difficulty: "Facile", 
+        ingredients: ['1 magret de canard', '1kg de gros sel', 'thym', 'poivre'], 
+        description: "Mettre une couche de gros sel dans le fond d'un récipient hermétique. Déposer quelques branches de thym et le magret côté chair sur le sel. Remettre quelques brannches de thym sur le magret côté gras. Bien recouvrir de sel. Mettre le récipient fermé dans le frigo pendant 24 heures. Puis, rincer le magret sous l'eau. Bien le sécher. Mettre le magret dans un torchon. Le poivrer génnéreusement de tous les côtés. L'enrouler dans le torchonet le remettre dans le bas du frigo pendant 3 à 4 semaines."
     }
     /*{
         image: "", 
