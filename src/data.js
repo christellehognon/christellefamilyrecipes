@@ -716,7 +716,7 @@ export const recipes = [{
         averagePrice: "€€", 
         difficulty: "Facile", 
         ingredients: ['1 magret de canard', '1kg de gros sel', 'thym', 'poivre'], 
-        description: "Mettre une couche de gros sel dans le fond d'un récipient hermétique. Déposer quelques branches de thym et le magret côté chair sur le sel. Remettre quelques brannches de thym sur le magret côté gras. Bien recouvrir de sel. Mettre le récipient fermé dans le frigo pendant 24 heures. Puis, rincer le magret sous l'eau. Bien le sécher. Mettre le magret dans un torchon. Le poivrer génnéreusement de tous les côtés. L'enrouler dans le torchonet le remettre dans le bas du frigo pendant 3 à 4 semaines."
+        description: "Mettre une couche de gros sel dans le fond d'un récipient hermétique. Déposer quelques branches de thym et le magret côté chair sur le sel. Remettre quelques brannches de thym sur le magret côté gras. Bien recouvrir de sel. Mettre le récipient fermé dans le frigo pendant 24 heures. Puis, rincer le magret sous l'eau. Bien le sécher. Mettre le magret dans un torchon. Le poivrer génnéreusement de tous les côtés. L'enrouler dans le torchonet le remettre dans le bas du frigo pendant 3 à 4 semaines. Un grand merci à Valérie de m'avoir partagé sa recette."
     }
     /*{
         image: "", 
