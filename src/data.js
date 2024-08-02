@@ -1,5 +1,5 @@
 export const recipes = [{
-    image: "",
+    image: "/img/gallery/img_46.jpg",
     authorImg: "/img/top-chiefs/img_1.jpg",
     name: "Riz au lait",
     slug: "riz-au-lait",
