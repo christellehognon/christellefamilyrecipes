@@ -462,7 +462,7 @@ export const recipes = [{
     description: "Dans une casserole, porter à ébullition le bouillon et le lait. Verser en pluie la polenta et remuer énergiquement. Ajouter le parmesan et faire cuire 5 minutes. Étaler la polenta sur une plaque beurrée. Laisser refoirdir. Détailler la polenta à l'emporte pièce. Verser l'huile d'olive dans la poêle, faire dorer environ 3 minutes de chaque côté selon la grosseur. "
 },
 {
-    image: "",
+    image: "/img/gallery/img_47.jpg",
     authorImg: "/img/top-chiefs/img_5.jpg",
     name: "Cocktail de Champagne aux framboises",
     slug: "cocktail-de-champagne-aux-framboises",
@@ -490,7 +490,7 @@ export const recipes = [{
     description: "Préchauffer le four à 180°C. Battre les blancs avec le sucre et le sucre vanillé à la main au moins 4 minutes. Ajouter la farine, le beurre, les jaunes et les amandes. Mettre du papier sulfurisé sur une plaque de cuisson. Mettre une cuillère à soupe de pâte et l'étaler. Ajouter quelques amandes au-dessus. Cela sur toute la plaque en les espaçant pour qu'elles ne se collent pas entre elles. Enfourner 4 à 5 minutes. Bien surveiller. Les sortir du four dès qu'elles soient dorées.Les décoller rapidement et les coller sur un rouleau à pâtisserie pour qu'elles en prennent la forme. Les mettre dans un bocal hermétique dès qu'elles ont refroidi. Les tuiles peuvent se conserver plusieurs semaines."
 },
 {
-    image: "",
+    image: "/img/gallery/img_48.jpg",
     authorImg: "/img/top-chiefs/img_1.jpg",
     name: "Caviar d'aubergines",
     slug: "caviar-d-aubergines",
