@@ -286,7 +286,7 @@ export const recipes = [{
     description: "Faire fondre le beure. Bien mélanger tous les ingrédients, puis rajouter le beurre fondu. Mettre à four modéré pendant 15 minutes environ."
 },
 {
-    image: "",
+    image: "/img/gallery/img_49.jpg",
     authorImg: "/img/top-chiefs/img_2.jpg",
     name: "Gâteau roulé",
     slug: "gateau-roule",
