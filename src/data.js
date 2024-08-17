@@ -717,6 +717,19 @@ export const recipes = [{
         difficulty: "Facile", 
         ingredients: ['1 magret de canard', '1kg de gros sel', 'thym', 'poivre'], 
         description: "Mettre une couche de gros sel dans le fond d'un récipient hermétique. Déposer quelques branches de thym et le magret côté chair sur le sel. Remettre quelques branches de thym sur le magret côté gras. Bien recouvrir de sel. Mettre le récipient fermé dans le frigo pendant 24 heures. Puis, rincer le magret sous l'eau. Bien le sécher. Mettre le magret dans un torchon. Le poivrer généreusement de tous les côtés. L'enrouler dans le torchon et le remettre dans le bas du frigo pendant 3 à 4 semaines. Un grand merci à Valérie de m'avoir partagé sa recette."
+    },
+    {
+        image: "/img/gallery/img_50.jpg", 
+        authorImg: "/img/top-chiefs/img_1.jpg", 
+        name: "Salade Caesar", 
+        slug: "salade-caesar", 
+        season: "Été", 
+        type: "Salade", 
+        timeToCook: "30 minutes", 
+        averagePrice: "€", 
+        difficulty: "Facile", 
+        ingredients: ['Filets de poulet', 'farfalle', 'roquette', '3 oeufs durs', '1 jaune d\'oeuf', 'parmesan', 'jus de citron', 'vinaigre de Xérès', '2 gousses d\'ail', 'filets d\'anchois à l\'huile', 'huile d\'olive', 'piment d\'Espelette', 'crème'], 
+        description: "Faire cuire les oeufs durs. Dénerver et dégraisser les filets de poulet. Les saupoudrer de piment d'Espelette. Les rouler en ballotine bien serrée dans du film alimentaire. Renouveler l'opération une seconde fois. Faire cuire dans une casserole d'eau bouillante pendant une vingtaine de minutes. Faire cuire les farfalle. Laisser refroidir le tout. Pour la sauce(pour 2 personnes), dans un blender mettre un oeuf dur, un jaune d'oeuf, 5 filets d'anchois, 20g de parmesan rapé, 1 cuillère à soupe de jus de citron, 2cl de vinaigre de Xérès et l'ail pressé. Mixer le tout. Puis rajouter 5cl d'huile d'olive en filet. Ajouter une cuillère à soupe de crème pour détendre la sauce. Assaisonner avec du piment d'Espelette. Pour les amateurs, ajouter du tabasco et de la sauce Worcestershire."
     }
     /*{
         image: "", 
