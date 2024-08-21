@@ -218,7 +218,7 @@ export const recipes = [{
     description: "Laver les morceaux de jarret, essuyez-les et passez-les dans la farine. Faire chauffer l'huile dans une cocotte, ajouter les tranches de jarret et faire dorer de tous côtés. Lorsqu'elles sont dorées, les retirer. Faire revenir les oignons et les carottes coupées en rondelles. Peler les tomates, les couper en morceaux de même que les légumes, ajouter aux oignons et laisser cuire quelques minutes à feu doux. Rajouter la viande, déglacer avec le vin blanc sec puis mouiller avec le bouillon. Faites mijoter environ 2 heures. Rectifier l'assaisonnement de l'Osso Bucco avec du jus de citron, du sel et du poivre. Accompagnez de tagliatelles fraîches."
 },
 {
-    image: "",
+    image: "/img/gallery/img_51.jpg",
     authorImg: "/img/top-chiefs/img_2.jpg",
     name: "Quatre-quart",
     slug: "quatre-quart",
