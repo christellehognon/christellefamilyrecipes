@@ -760,7 +760,7 @@ export const recipes = [{
     {
         image: "", 
         authorImg: "/img/top-chiefs/img_1.jpg", 
-        name: "Champigons au four", 
+        name: "Champignons au four", 
         slug: "champignons-au-four", 
         season: "Toutes", 
         type: "Apéritif", 
