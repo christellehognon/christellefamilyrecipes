@@ -730,6 +730,45 @@ export const recipes = [{
         difficulty: "Facile", 
         ingredients: ['Filets de poulet', 'farfalle', 'roquette', '3 oeufs durs', '1 jaune d\'oeuf', 'parmesan', 'jus de citron', 'vinaigre de Xérès', '2 gousses d\'ail', 'filets d\'anchois à l\'huile', 'huile d\'olive', 'piment d\'Espelette', 'crème'], 
         description: "Faire cuire les oeufs durs. Dénerver et dégraisser les filets de poulet. Les saupoudrer de piment d'Espelette. Les rouler en ballotine bien serrée dans du film alimentaire. Renouveler l'opération une seconde fois. Faire cuire dans une casserole d'eau bouillante pendant une vingtaine de minutes. Faire cuire les farfalle. Laisser refroidir le tout. Pour la sauce(pour 2 personnes), dans un blender mettre un oeuf dur, un jaune d'oeuf, 5 filets d'anchois, 20g de parmesan rapé, 1 cuillère à soupe de jus de citron, 2cl de vinaigre de Xérès et l'ail pressé. Mixer le tout. Puis rajouter 5cl d'huile d'olive en filet. Ajouter une cuillère à soupe de crème pour détendre la sauce. Assaisonner avec du piment d'Espelette. Pour les amateurs, ajouter du tabasco et de la sauce Worcestershire."
+    },
+    {
+        image: "/img/gallery/img_52.jpg", 
+        authorImg: "/img/top-chiefs/img_1.jpg", 
+        name: "Magret séché fourré au foie gras", 
+        slug: "magret-seche-fourre-au-foie-gras", 
+        season: "Toutes", 
+        type: "Apéritif", 
+        timeToCook: "15 minutes", 
+        averagePrice: "€€", 
+        difficulty: "Facile", 
+        ingredients: ['150g de foie gras frais', '1 magret de canard', '1kg de gros sel', 'thym', 'poivre'], 
+        description: "Découper une bande de foie gras d’environ 150gr. L’assaisonner avec un peu de fleur de sel et du poivre. Avec du film alimentaire, faire une ballotine avec le morceau de foie gras afin de lui donner une forme cylindrique. Placer le au congélateur afin de le faire durcir et ainsi faciliter son insertion dans le magret. Inciser le magret en son centre afin de créer une cavité suffisamment grande pour y accueillir l’insert de foie gras. Dès que le foie gras est assez dur, l’insérer dans le magret. Mettre une couche de gros sel dans le fond d'un récipient hermétique. Déposer quelques branches de thym et le magret côté chair sur le sel. Remettre quelques branches de thym sur le magret côté gras. Bien recouvrir de sel. Mettre le récipient fermé dans le frigo pendant 24 heures. Puis, rincer le magret sous l'eau. Bien le sécher. Mettre le magret dans un torchon. Le poivrer généreusement de tous les côtés. L'enrouler dans le torchon et le remettre dans le bas du frigo pendant 3 à 4 semaines. Un grand merci à Valérie de m'avoir partagé sa recette."
+    },
+    {
+        image: "/img/gallery/img_53.jpg", 
+        authorImg: "/img/top-chiefs/img_1.jpg", 
+        name: "Roulés au pesto", 
+        slug: "roules-au-pesto", 
+        season: "Toutes", 
+        type: "Apéritif", 
+        timeToCook: "20 minutes", 
+        averagePrice: "€", 
+        difficulty: "Facile", 
+        ingredients: ['Pain de mie snas croûte', '6 tranches de jambon serrano', 'pesto', 'mozzarella'], 
+        description: "Étaler les tranches de pain de mie avec un rouleau à pâtisserie sur 3 mm d'épaisseur. Répartir une très fine couche de pesto, mettre les tranches de jambon serrano par-dessus. Couper des bâtonnets de mozzarella et les disposer sur la base de pain, puis rouler l'ensemble délicatement. Avec du film alimentaire, former des ballotines bien sérrées. Mettre au frais."
+    },
+    {
+        image: "", 
+        authorImg: "/img/top-chiefs/img_1.jpg", 
+        name: "Champigons au four", 
+        slug: "champignons-au-four", 
+        season: "Toutes", 
+        type: "Apéritif", 
+        timeToCook: "20 minutes", 
+        averagePrice: "€", 
+        difficulty: "Facile", 
+        ingredients: ['250g de champignons de Paris frais', '2-3 tranches de jambon serrano', 'fromage frais', 'piment d\'Espelette'], 
+        description: "Enlever les pieds de champignons. Eplucher les têtes. Travailler le fromage frais (de chèvre, de brebis ou de vache au choix) en l'assaisonnant avec du piment d'Espelette. Garnir l'intérieur du champignon avec le fromage frais. Découper des morceaux de jambon, les façonner pour leur donner une forme volumineuse et les déposer sur le fromage. Mettre au four à 210°C pendant une dizaine de minutes environ."
     }
     /*{
         image: "", 

@@ -6,6 +6,7 @@ import { recipes } from "../data"
 export default function Recipes(){
     const recipesSorted = recipes.sort((a, b) => (a.slug.localeCompare(b.slug)));
     const [filteredRecipes, setFilteredRecipes] = useState(recipesSorted);
+    
     return (
         <div>
             <SearchFilters filteredRecipes = { filteredRecipes} setFilteredRecipes = { setFilteredRecipes }/>

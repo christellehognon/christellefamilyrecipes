@@ -14,7 +14,7 @@ export default function RecipeCard({recipe}){
                         <button className="recipe-btn">{recipe.difficulty}</button>
                         <button className="recipe-btn">{recipe.type}</button>
                         <button className="recipe-btn">{recipe.averagePrice}</button>
-                    </div>
+                </div>
                 <Link to={`/recipes/${recipe.slug}`} state={{ recipe: recipe }} className="view-btn">Voir la recette</Link>
             </div>
         </div>

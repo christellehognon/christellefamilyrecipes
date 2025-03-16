@@ -4,8 +4,6 @@ export default function CustomImage({imgSrc, pt, alt, slug, recipe}){
     if(!hasImage) {
         alt = "Image bientôt disponible";
     }
-    console.log('RECIPE', recipe)
-    console.log(alt);
     return (
         <div className="custom-image" style={{paddingTop: pt}}>
             <Link to={`/recipes/${slug}`} state={{ recipe: recipe }}className="view-btn">
