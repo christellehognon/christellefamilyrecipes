@@ -754,8 +754,8 @@ export const recipes = [{
         timeToCook: "20 minutes", 
         averagePrice: "€", 
         difficulty: "Facile", 
-        ingredients: ['Pain de mie snas croûte', '6 tranches de jambon serrano', 'pesto', 'mozzarella'], 
-        description: "Étaler les tranches de pain de mie avec un rouleau à pâtisserie sur 3 mm d'épaisseur. Répartir une très fine couche de pesto, mettre les tranches de jambon serrano par-dessus. Couper des bâtonnets de mozzarella et les disposer sur la base de pain, puis rouler l'ensemble délicatement. Avec du film alimentaire, former des ballotines bien sérrées. Mettre au frais."
+        ingredients: ['Pain de mie sans croûte', '6 tranches de jambon serrano', 'pesto', 'mozzarella'], 
+        description: "Étaler les tranches de pain de mie avec un rouleau à pâtisserie sur 3 mm d'épaisseur. Répartir une très fine couche de pesto, mettre les tranches de jambon serrano par-dessus. Couper des bâtonnets de mozzarella et les disposer sur la base de pain, puis rouler l'ensemble délicatement. Avec du film alimentaire, former des ballotines bien serrées. Mettre au frais."
     },
     {
         image: "", 
