@@ -2,7 +2,7 @@
     height: 55px;
     box-shadow: 0 3px 6px var(--shadow-color);
     background-color: var(--background-color);
-    color: var(--text-color);
+    color: var(--text-light);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -110,7 +110,7 @@
         padding: .5em 1em;
         border-left: .4em solid transparent;
         margin-bottom: 1em;
-        color: var(--text-color);
+        color: var(--text-light);
         font-size: 1.1em;
         transform: translateX(-100%);
         animation: getAnimationDuration(.3s) slideInLeft forwards;
