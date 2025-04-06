@@ -59,7 +59,7 @@
             border-radius: 5px;
             height: 6px;
             width: 100%;
-            background-color: var(--text-color);
+            background-color: var(--text-light);
             position: absolute;
             transition: transform getAnimationDuration(.5s);
             &:nth-child(1){
