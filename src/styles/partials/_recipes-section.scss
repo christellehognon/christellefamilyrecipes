@@ -65,37 +65,37 @@
         font-size: 1.25em;
         font-weight: bold;
         margin-bottom: .5em;
-        color: var(--text-color);
+        color: var(--text-light);
         margin-top: .25em;
     }
     .recipe-type{
         font-size: 1;
         margin-bottom: .5em;
-        color: var(--text-color);
+        color: var(--text-light);
         margin-top: .25em;
     }
     .recipe-difficulty{
         font-size: 1em;
         margin-bottom: .5em;
-        color: var(--text-color);
+        color: var(--text-light);
         margin-top: .25em;
     }
     .recipe-season{
         font-size: 1em;
         margin-bottom: .5em;
-        color: var(--text-color);
+        color: var(--text-light);
         margin-top: .25em;
     }
     .recipe-timeToCook{
         font-size: 1em;
         margin-bottom: .5em;
-        color: var(--text-color);
+        color: var(--text-light);
         margin-top: .25em;
     }
     .recipe-averagePrice{
         font-size: 1em;
         margin-bottom: .5em;
-        color: var(--text-color);
+        color: var(--text-light);
         margin-top: .25em;
     }
     .recipe-desc{
@@ -144,23 +144,35 @@
             font-size: 1.25em;
             font-weight: bold;
             margin-bottom: .5em;
-            color: var(--text-color);
+            color: var(--text-light);
             margin-top: .25em;
         }
         .recipe-ingredients{
             font-size: 1em;
-            margin-bottom: 1em;
-            color: var(--text-color);
+            text-decoration: underline;
+            font-weight: 600;
+            margin-bottom: 0.25em;
+            color: var(--text-light);
             margin-top: .25em;
-            .recipe-ingredients-li {
-                margin-left: 1em;
-            }
+        }
+        .recipe-ingredients-li {
+            font-size: 1em;
+            margin-left: 1em;
+            text-decoration:none;
+            font-weight: normal;
+            color: var(--text-light);
+        }
+        .recipe-description-title{
+            font-size: 1em;
+            text-decoration: underline;
+            font-weight: bold;
+            margin-bottom: 0.25em;
+            color: var(--text-light);
+            margin-top: .25em;
         }
         .recipe-description{
             font-size: 1em;
-            margin-bottom: 1em;
-            color: var(--text-color);
-            margin-top: .25em;
+            color: var(--text-light);
         }
     }
     .custom-image{

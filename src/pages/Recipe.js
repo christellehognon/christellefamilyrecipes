@@ -18,9 +18,11 @@ export default function Recipe(){
                         <button className="recipe-btn">{recipe.timeToCook}</button>
                         <button className="recipe-btn">{recipe.averagePrice}</button>
                     </div>
-                    <div className="recipe-ingredients">Ingrédients: <ul >{recipe.ingredients.map((ingredient, index) => (<li key={index} className= "recipe-ingredients-li">{ ingredient }</li>))}</ul></div>
-                    <p className="recipe-description">Descriptif: {recipe.description}</p>
-                
+                    <div className="recipe-ingredients">Ingrédients: </div>
+                    <div><ul className="recipe-ingredients-li">{recipe.ingredients.map((ingredient, index) => (<li key={index} className= "recipe-ingredients-li">{ ingredient }</li>))}</ul></div>
+                    <p className="recipe-description-title">Descriptif: </p>
+                    <p className="recipe-description">{recipe.description}</p>
+        
                 </div>
             </div>
         )
