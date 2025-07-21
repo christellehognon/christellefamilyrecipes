@@ -769,6 +769,18 @@ export const recipes = [{
         difficulty: "Facile", 
         ingredients: ['250g de champignons de Paris frais', '2-3 tranches de jambon serrano', 'fromage frais', 'piment d\'Espelette'], 
         description: "Enlever les pieds de champignons. Eplucher les têtes. Travailler le fromage frais (de chèvre, de brebis ou de vache au choix) en l'assaisonnant avec du piment d'Espelette. Garnir l'intérieur du champignon avec le fromage frais. Découper des morceaux de jambon, les façonner pour leur donner une forme volumineuse et les déposer sur le fromage. Mettre au four à 210°C pendant une dizaine de minutes environ."
+    }, {
+        image: "/img/gallery/img_55.jpg", 
+        authorImg: "/img/top-chiefs/img_1.jpg", 
+        name: "Lomo séché", 
+        slug: "lomo-seche", 
+        season: "Toutes", 
+        type: "Apéritif", 
+        timeToCook: "15 minutes", 
+        averagePrice: "€", 
+        difficulty: "Facile", 
+        ingredients: ['1 filet mignon de porc de 500g au moins', 'sel fin (4.5% du poids de la viande)', 'sucre de canne blond (la moitié du poids du sel)', 'paprika ou pimenton de la Vera(3% du poids de la viande)', 'poivre du moulin', 'piment d\'Espelette'], 
+        description: "Parer la viande, peser la afin de calculer la quantité à apporter de sel, de sucre et d’épices. Mélanger le tout dans un bol pour faire l’adobado (la marinade). Saupoudrer le mélange sel,sucre et épices sur toutes les faces de la viande et masser pour bien faire adhérer le mélange sur la viande. Mettre la pièce de viande dans un sac et mettre à mariner sous-vide. Garder au réfrigérateur à 3° / 5° C. La durée de la salaison dépend de l’épaisseur de la pièce de viande. Pour un filet mignon de 6 cm de diamètre il faut 0.5 jour par cm d’épaisseur + 1 jour, soit 3 + 1 = 4 jours au sel. Retourner le sac tous les jours afin de saler et parfumer uniformément la viande. Le temps de salage passé, sortir la viande du sac. Rincer et sécher la viande avec du papier absorbant. Remettre des épices autour de la viande (environ 2% du poids). Poser la viande sur une grille au réfrigérateur à 3° / 5°C. On considère que la viande est suffisamment sèche quand elle a perdu entre 30 et 40% de son poids initial."
     }
     /*{
         image: "", 
