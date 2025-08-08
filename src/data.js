@@ -147,7 +147,7 @@ export const recipes = [{
     averagePrice: "€",
     difficulty: "Facile",
     isVegetarian: true,
-    ingredients: ["2 yaourts natures ou aromatisés", "2 pots de sucre", "4 pots de farine", "1/2 pot d’huile de tournesol", "1 sachet de levure chimique", "1 sachet de sucre vanillé"],
+    ingredients: ["2 yaourts natures ou aromatisés", "2 pots de sucre", "3 pots de farine", "1/2 pot d’huile de tournesol", "1 sachet de levure chimique", "1 sachet de sucre vanillé"],
     description: "Mettre le four à chauffer à 180°C. Mélanger tous les ingrédients dans un plat creux. Verser la préparation dans un moule à cake en silicone. Mettre à four chaud pendant environ 45’. Ne le démouler que lorsque le gateau est froid."
 },
 {
